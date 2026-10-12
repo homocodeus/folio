@@ -1,0 +1,1977 @@
+{
+  "App language": {
+    "es": "Idioma de la aplicación",
+    "de": "App-Sprache",
+    "tr": "Uygulama dili"
+  },
+  "Appearance": {
+    "es": "Apariencia",
+    "de": "Darstellung",
+    "tr": "Görünüm"
+  },
+  "System": {
+    "es": "Sistema",
+    "de": "System",
+    "tr": "Sistem"
+  },
+  "Light": {
+    "es": "Claro",
+    "de": "Hell",
+    "tr": "Açık"
+  },
+  "Dark": {
+    "es": "Oscuro",
+    "de": "Dunkel",
+    "tr": "Koyu"
+  },
+  "YOUR WORKSPACE": {
+    "es": "TU ESPACIO",
+    "de": "DEIN ARBEITSBEREICH",
+    "tr": "ÇALIŞMA ALANINIZ"
+  },
+  "My CVs": {
+    "es": "Mis currículums",
+    "de": "Meine Lebensläufe",
+    "tr": "Özgeçmişlerim"
+  },
+  "Template studio": {
+    "es": "Estudio de plantillas",
+    "de": "Vorlagenstudio",
+    "tr": "Şablon stüdyosu"
+  },
+  "AI interview": {
+    "es": "Entrevista con IA",
+    "de": "KI-Interview",
+    "tr": "Yapay zekâ görüşmesi"
+  },
+  "NEW": {
+    "es": "NUEVO",
+    "de": "NEU",
+    "tr": "YENİ"
+  },
+  "Your next chapter": {
+    "es": "Tu próximo capítulo",
+    "de": "Dein nächstes Kapitel",
+    "tr": "Yeni bölümünüz"
+  },
+  "starts with a story.": {
+    "es": "empieza con una historia.",
+    "de": "beginnt mit einer Geschichte.",
+    "tr": "bir hikâyeyle başlar."
+  },
+  "Let’s make yours stand out.": {
+    "es": "Hagamos que la tuya destaque.",
+    "de": "Bringen wir deine zur Geltung.",
+    "tr": "Hikâyenizi öne çıkaralım."
+  },
+  "Tell your story": {
+    "es": "Cuenta tu historia",
+    "de": "Erzähle deine Geschichte",
+    "tr": "Hikâyenizi anlatın"
+  },
+  "Saved locally. Yours, always.": {
+    "es": "Guardado localmente. Siempre tuyo.",
+    "de": "Lokal gespeichert. Immer deins.",
+    "tr": "Yerel olarak kayıtlı. Her zaman sizin."
+  },
+  "Browser preview · local storage": {
+    "es": "Vista web · almacenamiento local",
+    "de": "Browser-Vorschau · lokaler Speicher",
+    "tr": "Tarayıcı önizlemesi · yerel depolama"
+  },
+  "Settings & connections": {
+    "es": "Ajustes y conexiones",
+    "de": "Einstellungen & Verbindungen",
+    "tr": "Ayarlar ve bağlantılar"
+  },
+  "Your workspace": {
+    "es": "Tu espacio",
+    "de": "Dein Arbeitsbereich",
+    "tr": "Çalışma alanınız"
+  },
+  "Personal · Local": {
+    "es": "Personal · Local",
+    "de": "Persönlich · Lokal",
+    "tr": "Kişisel · Yerel"
+  },
+  "Workspace": {
+    "es": "Espacio de trabajo",
+    "de": "Arbeitsbereich",
+    "tr": "Çalışma alanı"
+  },
+  "Private by design": {
+    "es": "Privacidad desde el diseño",
+    "de": "Privat von Grund auf",
+    "tr": "Gizlilik odaklı"
+  },
+  "A LITTLE CLARITY. A LOT OF POSSIBILITY.": {
+    "es": "UN POCO DE CLARIDAD. MUCHAS POSIBILIDADES.",
+    "de": "MEHR KLARHEIT. MEHR MÖGLICHKEITEN.",
+    "tr": "BİRAZ NETLİK. BİRÇOK FIRSAT."
+  },
+  "Your next chapter.": {
+    "es": "Tu próximo capítulo.",
+    "de": "Dein nächstes Kapitel.",
+    "tr": "Yeni bölümünüz."
+  },
+  "Make a CV that feels like you. Open the door to what’s next.": {
+    "es": "Crea un currículum que te represente. Abre la puerta a tu futuro.",
+    "de": "Erstelle einen Lebenslauf, der zu dir passt. Öffne die Tür zu Neuem.",
+    "tr": "Sizi yansıtan bir özgeçmiş hazırlayın. Yeni fırsatlara kapı açın."
+  },
+  "Create a CV": {
+    "es": "Crear currículum",
+    "de": "Lebenslauf erstellen",
+    "tr": "Özgeçmiş oluştur"
+  },
+  "MEET YOUR CV COMPANION": {
+    "es": "CONOCE A TU ASISTENTE",
+    "de": "DEIN LEBENSLAUF-ASSISTENT",
+    "tr": "ÖZGEÇMİŞ ASİSTANINIZ"
+  },
+  "You have the experience.": {
+    "es": "Tienes la experiencia.",
+    "de": "Du hast die Erfahrung.",
+    "tr": "Deneyim sizde."
+  },
+  "Let’s find the words.": {
+    "es": "Busquemos las palabras.",
+    "de": "Finden wir die Worte.",
+    "tr": "Doğru kelimeleri bulalım."
+  },
+  "A guided conversation turns your story into a CV.": {
+    "es": "Una conversación guiada convierte tu historia en un currículum.",
+    "de": "Ein geführtes Gespräch macht deine Geschichte zum Lebenslauf.",
+    "tr": "Rehberli bir görüşme hikâyenizi özgeçmişe dönüştürür."
+  },
+  "A little help getting started. A result that’s all you.": {
+    "es": "Una ayuda para empezar. Un resultado muy tuyo.",
+    "de": "Etwas Starthilfe. Ein Ergebnis, das ganz du bist.",
+    "tr": "Başlamak için biraz yardım. Tamamen size ait bir sonuç."
+  },
+  "Start with an interview": {
+    "es": "Empezar con una entrevista",
+    "de": "Mit Interview beginnen",
+    "tr": "Görüşmeyle başla"
+  },
+  "Speak or type. Go at your own pace.": {
+    "es": "Habla o escribe. A tu ritmo.",
+    "de": "Sprich oder tippe. In deinem Tempo.",
+    "tr": "Konuşun veya yazın. Kendi hızınızda."
+  },
+  "PRODUCT DESIGNER": {
+    "es": "DISEÑADOR DE PRODUCTO",
+    "de": "PRODUKTDESIGNER",
+    "tr": "ÜRÜN TASARIMCISI"
+  },
+  "EXPERIENCE": {
+    "es": "EXPERIENCIA",
+    "de": "BERUFSERFAHRUNG",
+    "tr": "İŞ DENEYİMİ"
+  },
+  "EDUCATION": {
+    "es": "FORMACIÓN",
+    "de": "AUSBILDUNG",
+    "tr": "EĞİTİM"
+  },
+  "A story worth sharing.": {
+    "es": "Una historia que merece contarse.",
+    "de": "Eine Geschichte zum Teilen.",
+    "tr": "Paylaşmaya değer bir hikâye."
+  },
+  "Search CVs": {
+    "es": "Buscar currículums",
+    "de": "Lebensläufe suchen",
+    "tr": "Özgeçmiş ara"
+  },
+  "Search your CVs…": {
+    "es": "Busca tus currículums…",
+    "de": "Lebensläufe durchsuchen…",
+    "tr": "Özgeçmişlerinizi arayın…"
+  },
+  "Import": {
+    "es": "Importar",
+    "de": "Importieren",
+    "tr": "İçe aktar"
+  },
+  "Opening your workspace…": {
+    "es": "Abriendo tu espacio…",
+    "de": "Arbeitsbereich wird geöffnet…",
+    "tr": "Çalışma alanınız açılıyor…"
+  },
+  "Open in editor": {
+    "es": "Abrir en el editor",
+    "de": "Im Editor öffnen",
+    "tr": "Düzenleyicide aç"
+  },
+  "Duplicate": {
+    "es": "Duplicar",
+    "de": "Duplizieren",
+    "tr": "Çoğalt"
+  },
+  "Export PDF": {
+    "es": "Exportar PDF",
+    "de": "PDF exportieren",
+    "tr": "PDF dışa aktar"
+  },
+  "Save backup": {
+    "es": "Guardar copia de seguridad",
+    "de": "Sicherung speichern",
+    "tr": "Yedek kaydet"
+  },
+  "Delete": {
+    "es": "Eliminar",
+    "de": "Löschen",
+    "tr": "Sil"
+  },
+  "Edited": {
+    "es": "Editado",
+    "de": "Bearbeitet",
+    "tr": "Düzenlendi"
+  },
+  "Create something new": {
+    "es": "Crea algo nuevo",
+    "de": "Etwas Neues erstellen",
+    "tr": "Yeni bir şey oluşturun"
+  },
+  "Your next opportunity starts here.": {
+    "es": "Tu próxima oportunidad empieza aquí.",
+    "de": "Deine nächste Chance beginnt hier.",
+    "tr": "Yeni fırsatınız burada başlıyor."
+  },
+  "No CVs match “": {
+    "es": "Ningún currículum coincide con «",
+    "de": "Keine Lebensläufe für „",
+    "tr": "Eşleşen özgeçmiş yok: “"
+  },
+  "”. Try another search.": {
+    "es": "». Prueba otra búsqueda.",
+    "de": "“. Versuche eine andere Suche.",
+    "tr": "”. Başka bir arama deneyin."
+  },
+  "Want to explore first? Try a complete example and make it your own.": {
+    "es": "¿Quieres explorar primero? Prueba un ejemplo completo y personalízalo.",
+    "de": "Erst ausprobieren? Passe ein vollständiges Beispiel an.",
+    "tr": "Önce keşfetmek ister misiniz? Hazır bir örneği kişiselleştirin."
+  },
+  "Open example CV": {
+    "es": "Abrir currículum de ejemplo",
+    "de": "Beispiel-Lebenslauf öffnen",
+    "tr": "Örnek özgeçmişi aç"
+  },
+  "Your career belongs to you. Your CVs stay on this device.": {
+    "es": "Tu carrera te pertenece. Tus currículums se quedan en este dispositivo.",
+    "de": "Deine Karriere gehört dir. Deine Lebensläufe bleiben auf diesem Gerät.",
+    "tr": "Kariyeriniz size aittir. Özgeçmişleriniz bu cihazda kalır."
+  },
+  "MADE FOR YOUR NEXT MOVE": {
+    "es": "PARA TU PRÓXIMO PASO",
+    "de": "FÜR DEINEN NÄCHSTEN SCHRITT",
+    "tr": "BİR SONRAKİ ADIMINIZ İÇİN"
+  },
+  "GOOD DESIGN OPENS DOORS": {
+    "es": "EL BUEN DISEÑO ABRE PUERTAS",
+    "de": "GUTES DESIGN ÖFFNET TÜREN",
+    "tr": "İYİ TASARIM KAPILARI AÇAR"
+  },
+  "A format for your future.": {
+    "es": "Un formato para tu futuro.",
+    "de": "Ein Format für deine Zukunft.",
+    "tr": "Geleceğiniz için bir tasarım."
+  },
+  "distinct directions. The same remarkable you.": {
+    "es": "estilos distintos. Tu misma esencia.",
+    "de": "verschiedene Stile. Immer du selbst.",
+    "tr": "farklı tarz. Aynı benzersiz siz."
+  },
+  "Open Template Editor": {
+    "es": "Abrir editor de plantillas",
+    "de": "Vorlageneditor öffnen",
+    "tr": "Şablon düzenleyiciyi aç"
+  },
+  "curated designs": {
+    "es": "diseños seleccionados",
+    "de": "ausgewählte Designs",
+    "tr": "özenle seçilmiş tasarımlar"
+  },
+  "Use this template": {
+    "es": "Usar esta plantilla",
+    "de": "Diese Vorlage verwenden",
+    "tr": "Bu şablonu kullan"
+  },
+  "Back to CVs": {
+    "es": "Volver a currículums",
+    "de": "Zurück zu Lebensläufen",
+    "tr": "Özgeçmişlere dön"
+  },
+  "CV document title": {
+    "es": "Título del documento",
+    "de": "Dokumenttitel",
+    "tr": "Özgeçmiş belge başlığı"
+  },
+  "Resume language": {
+    "es": "Idioma del currículum",
+    "de": "Lebenslauf-Sprache",
+    "tr": "Özgeçmiş dili"
+  },
+  "Updates section headings and AI writing. Existing text and custom headings stay unchanged.": {
+    "es": "Actualiza los títulos y la redacción con IA. El texto existente y los títulos personalizados no cambian.",
+    "de": "Ändert Abschnittstitel und KI-Texte. Vorhandene Texte und eigene Titel bleiben unverändert.",
+    "tr": "Bölüm başlıklarını ve yapay zekâ metinlerini günceller. Mevcut metin ve özel başlıklar değişmez."
+  },
+  "Make it yours.": {
+    "es": "Hazlo tuyo.",
+    "de": "Mach ihn zu deinem.",
+    "tr": "Size özel olsun."
+  },
+  "The details that tell your story.": {
+    "es": "Los detalles que cuentan tu historia.",
+    "de": "Die Details deiner Geschichte.",
+    "tr": "Hikâyenizi anlatan ayrıntılar."
+  },
+  "complete": {
+    "es": "completo",
+    "de": "vollständig",
+    "tr": "tamamlandı"
+  },
+  "YOUR STORY, YOUR STYLE": {
+    "es": "TU HISTORIA, TU ESTILO",
+    "de": "DEINE GESCHICHTE, DEIN STIL",
+    "tr": "HİKÂYENİZ, TARZINIZ"
+  },
+  "A little finishing touch.": {
+    "es": "Un toque final.",
+    "de": "Der letzte Schliff.",
+    "tr": "Küçük bir son dokunuş."
+  },
+  "Switch designs anytime. Your content comes with you.": {
+    "es": "Cambia de diseño cuando quieras. Tu contenido se conserva.",
+    "de": "Wechsle jederzeit das Design. Deine Inhalte bleiben erhalten.",
+    "tr": "Tasarımı istediğiniz zaman değiştirin. İçeriğiniz korunur."
+  },
+  "Accent color": {
+    "es": "Color de acento",
+    "de": "Akzentfarbe",
+    "tr": "Vurgu rengi"
+  },
+  "Custom accent color": {
+    "es": "Color de acento personalizado",
+    "de": "Eigene Akzentfarbe",
+    "tr": "Özel vurgu rengi"
+  },
+  "Ready for the next step?": {
+    "es": "¿Listo para el siguiente paso?",
+    "de": "Bereit für den nächsten Schritt?",
+    "tr": "Sonraki adıma hazır mısınız?"
+  },
+  "Your PDF uses selectable text and flows across pages automatically. Preview is a content overview; export to check final page breaks.": {
+    "es": "El PDF tiene texto seleccionable y paginación automática. Exporta para comprobar los saltos de página.",
+    "de": "Dein PDF hat auswählbaren Text und automatische Seitenumbrüche. Prüfe die endgültige Aufteilung im Export.",
+    "tr": "PDF seçilebilir metin ve otomatik sayfalama kullanır. Son sayfa düzenini dışa aktararak kontrol edin."
+  },
+  "Export your CV": {
+    "es": "Exportar tu currículum",
+    "de": "Lebenslauf exportieren",
+    "tr": "Özgeçmişinizi dışa aktarın"
+  },
+  "LIVE PREVIEW": {
+    "es": "VISTA PREVIA",
+    "de": "LIVE-VORSCHAU",
+    "tr": "CANLI ÖNİZLEME"
+  },
+  "A clearer picture of your potential.": {
+    "es": "Una visión más clara de tu potencial.",
+    "de": "Ein klareres Bild deines Potenzials.",
+    "tr": "Potansiyelinizin daha net bir görünümü."
+  },
+  "Something needs your attention": {
+    "es": "Algo necesita tu atención",
+    "de": "Etwas benötigt deine Aufmerksamkeit",
+    "tr": "Dikkat etmeniz gereken bir durum var"
+  },
+  "Dismiss error": {
+    "es": "Cerrar error",
+    "de": "Fehler schließen",
+    "tr": "Hatayı kapat"
+  },
+  "Delete “": {
+    "es": "Eliminar «",
+    "de": "„",
+    "tr": "Sil: “"
+  },
+  "”?": {
+    "es": "»? ",
+    "de": "“ löschen?",
+    "tr": "”?"
+  },
+  "This removes the saved CV from this device. Export a backup first if you might need it later.": {
+    "es": "Elimina el currículum de este dispositivo. Exporta una copia si lo necesitas después.",
+    "de": "Entfernt den Lebenslauf von diesem Gerät. Exportiere vorher eine Sicherung, falls du ihn noch brauchst.",
+    "tr": "Kayıtlı özgeçmiş bu cihazdan silinir. Daha sonra gerekebilecekse önce yedek alın."
+  },
+  "Keep CV": {
+    "es": "Conservar currículum",
+    "de": "Lebenslauf behalten",
+    "tr": "Özgeçmişi koru"
+  },
+  "Delete CV": {
+    "es": "Eliminar currículum",
+    "de": "Lebenslauf löschen",
+    "tr": "Özgeçmişi sil"
+  },
+  "Personal details": {
+    "es": "Datos personales",
+    "de": "Persönliche Angaben",
+    "tr": "Kişisel bilgiler"
+  },
+  "Full name": {
+    "es": "Nombre completo",
+    "de": "Vollständiger Name",
+    "tr": "Ad soyad"
+  },
+  "e.g. Alex Morgan": {
+    "es": "p. ej. Alex Morgan",
+    "de": "z. B. Alex Morgan",
+    "tr": "örn. Alex Morgan"
+  },
+  "Professional headline": {
+    "es": "Título profesional",
+    "de": "Berufliche Position",
+    "tr": "Mesleki unvan"
+  },
+  "e.g. Senior Product Designer": {
+    "es": "p. ej. Diseñador de producto sénior",
+    "de": "z. B. Senior Produktdesigner",
+    "tr": "örn. Kıdemli Ürün Tasarımcısı"
+  },
+  "Email": {
+    "es": "Correo electrónico",
+    "de": "E-Mail",
+    "tr": "E-posta"
+  },
+  "Phone": {
+    "es": "Teléfono",
+    "de": "Telefon",
+    "tr": "Telefon"
+  },
+  "Location": {
+    "es": "Ubicación",
+    "de": "Wohnort",
+    "tr": "Konum"
+  },
+  "Website / LinkedIn": {
+    "es": "Sitio web / LinkedIn",
+    "de": "Website / LinkedIn",
+    "tr": "Web sitesi / LinkedIn"
+  },
+  "Profile": {
+    "es": "Perfil",
+    "de": "Profil",
+    "tr": "Profil"
+  },
+  "Your professional summary": {
+    "es": "Tu perfil profesional",
+    "de": "Dein berufliches Profil",
+    "tr": "Mesleki özetiniz"
+  },
+  "A few sentences about your background, strengths, and ambitions…": {
+    "es": "Unas frases sobre tu trayectoria, fortalezas y objetivos…",
+    "de": "Ein paar Sätze zu Erfahrung, Stärken und Zielen…",
+    "tr": "Geçmişiniz, güçlü yönleriniz ve hedefleriniz hakkında birkaç cümle…"
+  },
+  "Keep it personal, clear, and focused on the role you want.": {
+    "es": "Sé personal, claro y céntrate en el puesto que buscas.",
+    "de": "Persönlich, klar und auf die gewünschte Stelle ausgerichtet.",
+    "tr": "Kişisel, açık ve hedeflediğiniz işe odaklı olsun."
+  },
+  "Experience": {
+    "es": "Experiencia",
+    "de": "Berufserfahrung",
+    "tr": "İş deneyimi"
+  },
+  "Position": {
+    "es": "Puesto",
+    "de": "Position",
+    "tr": "Pozisyon"
+  },
+  "Job title": {
+    "es": "Cargo",
+    "de": "Berufsbezeichnung",
+    "tr": "İş unvanı"
+  },
+  "Company": {
+    "es": "Empresa",
+    "de": "Unternehmen",
+    "tr": "Şirket"
+  },
+  "Dates": {
+    "es": "Fechas",
+    "de": "Zeitraum",
+    "tr": "Tarihler"
+  },
+  "Achievements — one per line": {
+    "es": "Logros — uno por línea",
+    "de": "Erfolge — einer pro Zeile",
+    "tr": "Başarılar — her satıra bir tane"
+  },
+  "Achievements": {
+    "es": "Logros",
+    "de": "Erfolge",
+    "tr": "Başarılar"
+  },
+  "2022 — Present": {
+    "es": "2022 — Actualidad",
+    "de": "2022 — Heute",
+    "tr": "2022 — Günümüz"
+  },
+  "Add experience": {
+    "es": "Añadir experiencia",
+    "de": "Erfahrung hinzufügen",
+    "tr": "Deneyim ekle"
+  },
+  "Education": {
+    "es": "Formación",
+    "de": "Ausbildung",
+    "tr": "Eğitim"
+  },
+  "Qualification": {
+    "es": "Titulación",
+    "de": "Abschluss",
+    "tr": "Diploma"
+  },
+  "School / university": {
+    "es": "Centro educativo / universidad",
+    "de": "Schule / Universität",
+    "tr": "Okul / üniversite"
+  },
+  "Add education": {
+    "es": "Añadir formación",
+    "de": "Ausbildung hinzufügen",
+    "tr": "Eğitim ekle"
+  },
+  "Skills & languages": {
+    "es": "Habilidades e idiomas",
+    "de": "Kenntnisse & Sprachen",
+    "tr": "Beceriler ve diller"
+  },
+  "Skills (one per line)": {
+    "es": "Habilidades (una por línea)",
+    "de": "Kenntnisse (eine pro Zeile)",
+    "tr": "Beceriler (her satıra bir tane)"
+  },
+  "Languages": {
+    "es": "Idiomas",
+    "de": "Sprachen",
+    "tr": "Diller"
+  },
+  "English · Native": {
+    "es": "Español · Nativo",
+    "de": "Deutsch · Muttersprache",
+    "tr": "Türkçe · Ana dil"
+  },
+  "Details": {
+    "es": "Datos",
+    "de": "Angaben",
+    "tr": "Bilgiler"
+  },
+  "Interview": {
+    "es": "Entrevista",
+    "de": "Interview",
+    "tr": "Görüşme"
+  },
+  "Portrait": {
+    "es": "Retrato",
+    "de": "Porträt",
+    "tr": "Portre"
+  },
+  "Design": {
+    "es": "Diseño",
+    "de": "Design",
+    "tr": "Tasarım"
+  },
+  "All changes saved": {
+    "es": "Todos los cambios guardados",
+    "de": "Alle Änderungen gespeichert",
+    "tr": "Tüm değişiklikler kaydedildi"
+  },
+  "Saving changes…": {
+    "es": "Guardando cambios…",
+    "de": "Änderungen werden gespeichert…",
+    "tr": "Değişiklikler kaydediliyor…"
+  },
+  "Save failed — retry": {
+    "es": "Error al guardar — reintentar",
+    "de": "Speichern fehlgeschlagen — erneut versuchen",
+    "tr": "Kayıt başarısız — yeniden dene"
+  },
+  "CV duplicated": {
+    "es": "Currículum duplicado",
+    "de": "Lebenslauf dupliziert",
+    "tr": "Özgeçmiş çoğaltıldı"
+  },
+  "CV deleted": {
+    "es": "Currículum eliminado",
+    "de": "Lebenslauf gelöscht",
+    "tr": "Özgeçmiş silindi"
+  },
+  "Your PDF is ready": {
+    "es": "Tu PDF está listo",
+    "de": "Dein PDF ist fertig",
+    "tr": "PDF hazır"
+  },
+  "CV imported": {
+    "es": "Currículum importado",
+    "de": "Lebenslauf importiert",
+    "tr": "Özgeçmiş içe aktarıldı"
+  },
+  "LET’S FIND YOUR WORDS": {
+    "es": "ENCONTREMOS TUS PALABRAS",
+    "de": "FINDEN WIR DEINE WORTE",
+    "tr": "KELİMELERİNİZİ BULALIM"
+  },
+  "A conversation.": {
+    "es": "Una conversación.",
+    "de": "Ein Gespräch.",
+    "tr": "Bir görüşme."
+  },
+  "A clearer picture of you.": {
+    "es": "Una imagen más clara de ti.",
+    "de": "Ein klareres Bild von dir.",
+    "tr": "Sizin daha net bir görünümünüz."
+  },
+  "I’ll ask a few questions and add your answers to your CV. Type your answers, or connect a speech model in Settings to use your voice.": {
+    "es": "Te haré preguntas y añadiré tus respuestas al currículum. Escribe o configura un modelo de voz en Ajustes.",
+    "de": "Ich stelle Fragen und ergänze deine Antworten im Lebenslauf. Tippe oder richte ein Sprachmodell in den Einstellungen ein.",
+    "tr": "Sorular sorup yanıtlarınızı özgeçmişe ekleyeceğim. Yazın veya ses için Ayarlar'da bir konuşma modeli bağlayın."
+  },
+  "Interview assistant": {
+    "es": "Asistente de entrevista",
+    "de": "Interview-Assistent",
+    "tr": "Görüşme asistanı"
+  },
+  "Guided form · no agent replies": {
+    "es": "Formulario guiado · sin respuestas de IA",
+    "de": "Geführtes Formular · ohne Agent-Antworten",
+    "tr": "Rehberli form · asistan yanıtı yok"
+  },
+  "Guided mode saves answers directly. Select a configured ACP assistant for conversational replies.": {
+    "es": "El modo guiado guarda las respuestas directamente. Selecciona un asistente ACP para conversar.",
+    "de": "Der Formularmodus speichert Antworten direkt. Wähle einen ACP-Assistenten für ein Gespräch.",
+    "tr": "Rehberli mod yanıtları doğrudan kaydeder. Görüşme için bir ACP asistanı seçin."
+  },
+  "Model options ·": {
+    "es": "Opciones de modelo ·",
+    "de": "Modelloptionen ·",
+    "tr": "Model seçenekleri ·"
+  },
+  "Agent default": {
+    "es": "Predeterminado del agente",
+    "de": "Agent-Standard",
+    "tr": "Asistan varsayılanı"
+  },
+  "Current CV text is included with each message. Photos and other CVs are not shared.": {
+    "es": "Cada mensaje incluye el texto del currículum actual. No se comparten fotos ni otros currículums.",
+    "de": "Jede Nachricht enthält den aktuellen Lebenslauftext. Fotos und andere Lebensläufe werden nicht geteilt.",
+    "tr": "Her mesaj mevcut özgeçmiş metnini içerir. Fotoğraflar ve diğer özgeçmişler paylaşılmaz."
+  },
+  "Allow sharing below to let your assistant read the current CV text and reply.": {
+    "es": "Permite compartir abajo para que el asistente lea tu currículum y responda.",
+    "de": "Erlaube unten das Teilen, damit der Assistent deinen Lebenslauf lesen und antworten kann.",
+    "tr": "Asistanın mevcut özgeçmişi okuyup yanıtlaması için aşağıdan paylaşım izni verin."
+  },
+  "Conversation, progress, and message drafts autosave with this CV on your device.": {
+    "es": "La conversación, el progreso y los borradores se guardan con este currículum en tu dispositivo.",
+    "de": "Gespräch, Fortschritt und Entwürfe werden mit diesem Lebenslauf lokal gespeichert.",
+    "tr": "Görüşme, ilerleme ve mesaj taslakları bu özgeçmişle cihazınıza otomatik kaydedilir."
+  },
+  "YOUR STORY": {
+    "es": "TU HISTORIA",
+    "de": "DEINE GESCHICHTE",
+    "tr": "HİKÂYENİZ"
+  },
+  "Waiting for": {
+    "es": "Esperando a",
+    "de": "Warten auf",
+    "tr": "Bekleniyor:"
+  },
+  "Cancel assistant request": {
+    "es": "Cancelar solicitud",
+    "de": "Assistent-Anfrage abbrechen",
+    "tr": "Asistan isteğini iptal et"
+  },
+  "Allow sending interview messages, recent conversation, and CV text to my selected assistant or text provider, and recorded audio to my speech provider.": {
+    "es": "Permitir enviar mensajes, conversación reciente y texto del currículum al asistente o proveedor de texto, y audio grabado al proveedor de voz.",
+    "de": "Interview-Nachrichten, den letzten Gesprächsverlauf und Lebenslauftext an meinen Assistenten bzw. Textanbieter sowie Audio an meinen Sprachanbieter senden dürfen.",
+    "tr": "Görüşme mesajlarının, son konuşmanın ve özgeçmiş metninin seçili asistana veya metin sağlayıcısına; ses kayıtlarının konuşma sağlayıcısına gönderilmesine izin ver."
+  },
+  "Read question aloud": {
+    "es": "Leer pregunta en voz alta",
+    "de": "Frage vorlesen",
+    "tr": "Soruyu sesli oku"
+  },
+  "Your answer": {
+    "es": "Tu respuesta",
+    "de": "Deine Antwort",
+    "tr": "Yanıtınız"
+  },
+  "Tell me a little about yourself…": {
+    "es": "Cuéntame un poco sobre ti…",
+    "de": "Erzähl etwas über dich…",
+    "tr": "Kendinizden biraz bahsedin…"
+  },
+  "Stop recording": {
+    "es": "Detener grabación",
+    "de": "Aufnahme stoppen",
+    "tr": "Kaydı durdur"
+  },
+  "Use your voice": {
+    "es": "Usar la voz",
+    "de": "Sprache verwenden",
+    "tr": "Sesinizi kullanın"
+  },
+  "Working…": {
+    "es": "Procesando…",
+    "de": "Wird verarbeitet…",
+    "tr": "İşleniyor…"
+  },
+  "Use answer": {
+    "es": "Enviar respuesta",
+    "de": "Antwort verwenden",
+    "tr": "Yanıtı kullan"
+  },
+  "Skip this question": {
+    "es": "Omitir esta pregunta",
+    "de": "Frage überspringen",
+    "tr": "Bu soruyu atla"
+  },
+  "Your story is taking shape.": {
+    "es": "Tu historia va tomando forma.",
+    "de": "Deine Geschichte nimmt Gestalt an.",
+    "tr": "Hikâyeniz şekilleniyor."
+  },
+  "Your answers are in the editor. Review your experience and education, then choose your design.": {
+    "es": "Tus respuestas están en el editor. Revisa tu experiencia y formación y elige un diseño.",
+    "de": "Deine Antworten sind im Editor. Prüfe Erfahrung und Ausbildung und wähle dein Design.",
+    "tr": "Yanıtlarınız düzenleyicide. Deneyim ve eğitimi gözden geçirip tasarım seçin."
+  },
+  "Start another interview": {
+    "es": "Empezar otra entrevista",
+    "de": "Neues Interview starten",
+    "tr": "Yeni görüşme başlat"
+  },
+  "More AI writing tools": {
+    "es": "Más herramientas de escritura con IA",
+    "de": "Weitere KI-Schreibhilfen",
+    "tr": "Diğer yapay zekâ yazım araçları"
+  },
+  "Turn your answers into a draft": {
+    "es": "Convierte tus respuestas en un borrador",
+    "de": "Aus Antworten wird ein Entwurf",
+    "tr": "Yanıtlarınızı taslağa dönüştürün"
+  },
+  "Let AI organize your notes into roles, qualifications, and skills. Review the complete suggestion before replacing those sections.": {
+    "es": "Deja que la IA organice tus notas. Revisa la propuesta antes de sustituir las secciones.",
+    "de": "Lass die KI deine Notizen ordnen. Prüfe den Vorschlag, bevor Abschnitte ersetzt werden.",
+    "tr": "Yapay zekâ notlarınızı düzenlesin. Bölümleri değiştirmeden önce öneriyi inceleyin."
+  },
+  "Organize my CV with AI": {
+    "es": "Organizar mi currículum con IA",
+    "de": "Lebenslauf mit KI strukturieren",
+    "tr": "Özgeçmişimi yapay zekâyla düzenle"
+  },
+  "Suggested profile": {
+    "es": "Perfil sugerido",
+    "de": "Profilvorschlag",
+    "tr": "Önerilen profil"
+  },
+  "Suggested experience": {
+    "es": "Experiencia sugerida",
+    "de": "Erfahrungsvorschlag",
+    "tr": "Önerilen deneyim"
+  },
+  "Suggested education": {
+    "es": "Formación sugerida",
+    "de": "Ausbildungsvorschlag",
+    "tr": "Önerilen eğitim"
+  },
+  "Suggested skills": {
+    "es": "Habilidades sugeridas",
+    "de": "Kenntnisvorschlag",
+    "tr": "Önerilen beceriler"
+  },
+  "Use this draft": {
+    "es": "Usar este borrador",
+    "de": "Entwurf übernehmen",
+    "tr": "Bu taslağı kullan"
+  },
+  "Keep my notes": {
+    "es": "Conservar mis notas",
+    "de": "Notizen behalten",
+    "tr": "Notlarımı koru"
+  },
+  "Make your introduction shine": {
+    "es": "Mejora tu presentación",
+    "de": "Bring dein Profil zum Strahlen",
+    "tr": "Tanıtımınızı güçlendirin"
+  },
+  "Generate a suggested summary from the facts already in your CV.": {
+    "es": "Genera un resumen a partir de los datos de tu currículum.",
+    "de": "Erstelle einen Profilvorschlag aus den Fakten deines Lebenslaufs.",
+    "tr": "Özgeçmişteki bilgilere dayalı bir özet önerisi oluşturun."
+  },
+  "Suggest a polished summary": {
+    "es": "Sugerir un resumen mejorado",
+    "de": "Überarbeiteten Profiltext vorschlagen",
+    "tr": "Geliştirilmiş özet öner"
+  },
+  "Use summary": {
+    "es": "Usar resumen",
+    "de": "Profiltext übernehmen",
+    "tr": "Özeti kullan"
+  },
+  "Dismiss": {
+    "es": "Descartar",
+    "de": "Verwerfen",
+    "tr": "Kapat"
+  },
+  "Let’s start with you. What is your full name?": {
+    "es": "Empecemos contigo. ¿Cuál es tu nombre completo?",
+    "de": "Beginnen wir mit dir. Wie lautet dein vollständiger Name?",
+    "tr": "Sizinle başlayalım. Adınız ve soyadınız nedir?"
+  },
+  "What role are you pursuing? For example, senior product designer.": {
+    "es": "¿Qué puesto buscas? Por ejemplo, diseñador de producto sénior.",
+    "de": "Welche Stelle strebst du an? Zum Beispiel Senior Produktdesigner.",
+    "tr": "Hangi pozisyonu hedefliyorsunuz? Örneğin kıdemli ürün tasarımcısı."
+  },
+  "What email address should employers use to reach you?": {
+    "es": "¿Qué correo deben usar para contactarte?",
+    "de": "Unter welcher E-Mail-Adresse können Arbeitgeber dich erreichen?",
+    "tr": "İşverenler size hangi e-posta adresinden ulaşmalı?"
+  },
+  "Where are you based?": {
+    "es": "¿Dónde vives?",
+    "de": "Wo wohnst du?",
+    "tr": "Nerede yaşıyorsunuz?"
+  },
+  "Tell me about your background, strengths, and what you want to do next.": {
+    "es": "Cuéntame tu trayectoria, tus fortalezas y tus objetivos.",
+    "de": "Erzähle von deinem Hintergrund, deinen Stärken und deinen Zielen.",
+    "tr": "Geçmişinizden, güçlü yönlerinizden ve hedeflerinizden bahsedin."
+  },
+  "Tell me about your work experience: roles, companies, dates, and achievements.": {
+    "es": "Cuéntame tu experiencia: puestos, empresas, fechas y logros.",
+    "de": "Beschreibe deine Berufserfahrung: Stellen, Firmen, Zeiträume und Erfolge.",
+    "tr": "İş deneyiminizi anlatın: pozisyonlar, şirketler, tarihler ve başarılar."
+  },
+  "What did you study? Include the school, qualification, and dates.": {
+    "es": "¿Qué estudiaste? Incluye centro, titulación y fechas.",
+    "de": "Was hast du studiert oder gelernt? Nenne Schule, Abschluss und Zeitraum.",
+    "tr": "Ne okudunuz? Okul, diploma ve tarihleri belirtin."
+  },
+  "What are your strongest skills? Separate them with commas.": {
+    "es": "¿Cuáles son tus principales habilidades? Sepáralas con comas.",
+    "de": "Was sind deine stärksten Kenntnisse? Trenne sie durch Kommas.",
+    "tr": "En güçlü becerileriniz neler? Virgülle ayırın."
+  },
+  "A GREAT FIRST IMPRESSION": {
+    "es": "UNA GRAN PRIMERA IMPRESIÓN",
+    "de": "EIN STARKER ERSTER EINDRUCK",
+    "tr": "GÜÇLÜ BİR İLK İZLENİM"
+  },
+  "Put a face to your story.": {
+    "es": "Ponle rostro a tu historia.",
+    "de": "Gib deiner Geschichte ein Gesicht.",
+    "tr": "Hikâyenize bir yüz ekleyin."
+  },
+  "Take a photo or upload one you love. A portrait is optional — your experience speaks for itself.": {
+    "es": "Haz una foto o sube una que te guste. El retrato es opcional: tu experiencia habla por sí sola.",
+    "de": "Mach ein Foto oder lade eines hoch. Ein Porträt ist optional – deine Erfahrung spricht für sich.",
+    "tr": "Fotoğraf çekin veya yükleyin. Portre isteğe bağlıdır; deneyiminiz kendini anlatır."
+  },
+  "AI portrait for review": {
+    "es": "Retrato de IA para revisar",
+    "de": "KI-Porträt zur Prüfung",
+    "tr": "İnceleme için yapay zekâ portresi"
+  },
+  "Your portrait": {
+    "es": "Tu retrato",
+    "de": "Dein Porträt",
+    "tr": "Portreniz"
+  },
+  "Your portrait goes here": {
+    "es": "Tu retrato aparecerá aquí",
+    "de": "Hier erscheint dein Porträt",
+    "tr": "Portreniz burada görünecek"
+  },
+  "Stop camera": {
+    "es": "Detener cámara",
+    "de": "Kamera stoppen",
+    "tr": "Kamerayı durdur"
+  },
+  "Capture photo": {
+    "es": "Hacer foto",
+    "de": "Foto aufnehmen",
+    "tr": "Fotoğraf çek"
+  },
+  "Open camera": {
+    "es": "Abrir cámara",
+    "de": "Kamera öffnen",
+    "tr": "Kamerayı aç"
+  },
+  "Upload photo": {
+    "es": "Subir foto",
+    "de": "Foto hochladen",
+    "tr": "Fotoğraf yükle"
+  },
+  "Remove": {
+    "es": "Quitar",
+    "de": "Entfernen",
+    "tr": "Kaldır"
+  },
+  "A professional look, still you.": {
+    "es": "Un aspecto profesional, sin dejar de ser tú.",
+    "de": "Professionell und trotzdem du.",
+    "tr": "Profesyonel görünüm, yine siz."
+  },
+  "Ask your connected image model to change your outfit and background while preserving your facial identity. Review the result before using it.": {
+    "es": "Pide al modelo de imagen que cambie tu ropa y fondo conservando tu rostro. Revisa el resultado antes de usarlo.",
+    "de": "Lass das Bildmodell Kleidung und Hintergrund ändern und dein Gesicht beibehalten. Prüfe das Ergebnis vor der Übernahme.",
+    "tr": "Görsel modelinden yüzünüzü koruyarak kıyafet ve arka planı değiştirmesini isteyin. Kullanmadan önce sonucu inceleyin."
+  },
+  "Portrait style": {
+    "es": "Estilo de retrato",
+    "de": "Porträtstil",
+    "tr": "Portre tarzı"
+  },
+  "A tailored navy business suit with a white shirt": {
+    "es": "Traje azul marino con camisa blanca",
+    "de": "Dunkelblauer Anzug mit weißem Hemd",
+    "tr": "Beyaz gömlekli lacivert takım elbise"
+  },
+  "A charcoal blazer with a neutral shirt, smart casual": {
+    "es": "Americana gris oscuro y camisa neutra, informal elegante",
+    "de": "Anthrazitfarbener Blazer mit neutralem Hemd, Smart Casual",
+    "tr": "Nötr gömlekli antrasit ceket, şık günlük"
+  },
+  "A professional black blazer with a light blouse": {
+    "es": "Americana negra con blusa clara",
+    "de": "Schwarzer Blazer mit heller Bluse",
+    "tr": "Açık renk bluzlu siyah ceket"
+  },
+  "Send this photo to my configured AI provider for editing.": {
+    "es": "Enviar esta foto a mi proveedor de IA para editarla.",
+    "de": "Dieses Foto zur Bearbeitung an meinen KI-Anbieter senden.",
+    "tr": "Bu fotoğrafı düzenleme için yapay zekâ sağlayıcıma gönder."
+  },
+  "Creating your portrait…": {
+    "es": "Creando tu retrato…",
+    "de": "Porträt wird erstellt…",
+    "tr": "Portreniz oluşturuluyor…"
+  },
+  "Suit up with AI": {
+    "es": "Vestir con IA",
+    "de": "Mit KI einkleiden",
+    "tr": "Yapay zekâyla giydir"
+  },
+  "AI portrait editing is available in the desktop app.": {
+    "es": "La edición de retratos con IA está disponible en la app de escritorio.",
+    "de": "KI-Porträtbearbeitung ist in der Desktop-App verfügbar.",
+    "tr": "Yapay zekâ portre düzenleme masaüstü uygulamasında kullanılabilir."
+  },
+  "Use this portrait": {
+    "es": "Usar este retrato",
+    "de": "Porträt übernehmen",
+    "tr": "Bu portreyi kullan"
+  },
+  "Keep original": {
+    "es": "Conservar original",
+    "de": "Original behalten",
+    "tr": "Orijinali koru"
+  },
+  "MAKE YOURSELF AT HOME": {
+    "es": "SIÉNTETE COMO EN CASA",
+    "de": "RICHTE DICH EIN",
+    "tr": "KENDİNİZİ EVİNİZDE HİSSEDİN"
+  },
+  "Workspace settings": {
+    "es": "Ajustes del espacio",
+    "de": "Arbeitsbereich-Einstellungen",
+    "tr": "Çalışma alanı ayarları"
+  },
+  "Close settings": {
+    "es": "Cerrar ajustes",
+    "de": "Einstellungen schließen",
+    "tr": "Ayarları kapat"
+  },
+  "Your workspace, on your device.": {
+    "es": "Tu espacio, en tu dispositivo.",
+    "de": "Dein Arbeitsbereich auf deinem Gerät.",
+    "tr": "Çalışma alanınız, kendi cihazınızda."
+  },
+  "CVs are stored locally. AI requests only run when you choose them. Desktop API keys are kept in the operating system credential store.": {
+    "es": "Los currículums se guardan localmente. La IA solo se activa cuando lo eliges. Las claves API se guardan en el almacén seguro del sistema.",
+    "de": "Lebensläufe werden lokal gespeichert. KI-Anfragen erfolgen nur auf Wunsch. API-Schlüssel liegen im sicheren Anmeldespeicher des Betriebssystems.",
+    "tr": "Özgeçmişler yerel kaydedilir. Yapay zekâ istekleri yalnızca seçiminizle çalışır. API anahtarları işletim sisteminin güvenli deposunda tutulur."
+  },
+  "Browser preview uses local browser storage. Run the desktop app for SQLite, AI, and agent connections.": {
+    "es": "La vista web usa almacenamiento local. Usa la app de escritorio para SQLite, IA y agentes.",
+    "de": "Die Browser-Vorschau nutzt lokalen Browserspeicher. Für SQLite, KI und Agenten nutze die Desktop-App.",
+    "tr": "Tarayıcı önizlemesi yerel depolama kullanır. SQLite, yapay zekâ ve asistanlar için masaüstü uygulamasını kullanın."
+  },
+  "Advanced API settings · text, portraits & voice": {
+    "es": "API avanzada · texto, retratos y voz",
+    "de": "Erweiterte API-Einstellungen · Text, Porträts & Sprache",
+    "tr": "Gelişmiş API ayarları · metin, portre ve ses"
+  },
+  "AI provider": {
+    "es": "Proveedor de IA",
+    "de": "KI-Anbieter",
+    "tr": "Yapay zekâ sağlayıcısı"
+  },
+  "Use an API compatible with chat completions, image edits, and audio transcriptions. Model availability depends on your provider.": {
+    "es": "Usa una API compatible con chat, edición de imágenes y transcripción. Los modelos dependen del proveedor.",
+    "de": "Nutze eine API für Chat, Bildbearbeitung und Transkription. Verfügbare Modelle hängen vom Anbieter ab.",
+    "tr": "Sohbet, görsel düzenleme ve ses dökümüyle uyumlu bir API kullanın. Modeller sağlayıcınıza bağlıdır."
+  },
+  "API base URL": {
+    "es": "URL base de la API",
+    "de": "API-Basis-URL",
+    "tr": "API temel URL'si"
+  },
+  "API key": {
+    "es": "Clave API",
+    "de": "API-Schlüssel",
+    "tr": "API anahtarı"
+  },
+  "Leave blank to keep saved key": {
+    "es": "Dejar vacío para conservar la clave",
+    "de": "Leer lassen, um den Schlüssel zu behalten",
+    "tr": "Kayıtlı anahtarı korumak için boş bırakın"
+  },
+  "Text model": {
+    "es": "Modelo de texto",
+    "de": "Textmodell",
+    "tr": "Metin modeli"
+  },
+  "Your chat model ID": {
+    "es": "ID de tu modelo de chat",
+    "de": "ID deines Chatmodells",
+    "tr": "Sohbet modeli kimliğiniz"
+  },
+  "Image edit model": {
+    "es": "Modelo de edición de imágenes",
+    "de": "Bildbearbeitungsmodell",
+    "tr": "Görsel düzenleme modeli"
+  },
+  "Your image model ID": {
+    "es": "ID de tu modelo de imagen",
+    "de": "ID deines Bildmodells",
+    "tr": "Görsel modeli kimliğiniz"
+  },
+  "Transcription model": {
+    "es": "Modelo de transcripción",
+    "de": "Transkriptionsmodell",
+    "tr": "Ses dökümü modeli"
+  },
+  "Your speech model ID": {
+    "es": "ID de tu modelo de voz",
+    "de": "ID deines Sprachmodells",
+    "tr": "Konuşma modeli kimliğiniz"
+  },
+  "Saved API key removed.": {
+    "es": "Clave API eliminada.",
+    "de": "Gespeicherter API-Schlüssel entfernt.",
+    "tr": "Kayıtlı API anahtarı kaldırıldı."
+  },
+  "Remove saved API key": {
+    "es": "Eliminar clave API guardada",
+    "de": "Gespeicherten API-Schlüssel entfernen",
+    "tr": "Kayıtlı API anahtarını kaldır"
+  },
+  "Advanced connections · custom executables": {
+    "es": "Conexiones avanzadas · ejecutables personalizados",
+    "de": "Erweiterte Verbindungen · eigene Programme",
+    "tr": "Gelişmiş bağlantılar · özel programlar"
+  },
+  "Agent & tool connections": {
+    "es": "Conexiones de agentes y herramientas",
+    "de": "Agenten- & Werkzeugverbindungen",
+    "tr": "Asistan ve araç bağlantıları"
+  },
+  "New connection": {
+    "es": "Nueva conexión",
+    "de": "Neue Verbindung",
+    "tr": "Yeni bağlantı"
+  },
+  "Add connection": {
+    "es": "Añadir conexión",
+    "de": "Verbindung hinzufügen",
+    "tr": "Bağlantı ekle"
+  },
+  "Connect installed MCP servers or ACP agents over stdio. Running a connection starts the executable on your computer. Only add software you trust.": {
+    "es": "Conecta servidores MCP o agentes ACP por stdio. La conexión ejecuta el programa en tu equipo. Añade solo software de confianza.",
+    "de": "Verbinde MCP-Server oder ACP-Agenten über stdio. Eine Verbindung startet das Programm auf deinem Computer. Nutze nur vertrauenswürdige Software.",
+    "tr": "Kurulu MCP sunucularını veya ACP asistanlarını stdio ile bağlayın. Bağlantı programı bilgisayarınızda çalıştırır. Yalnızca güvendiğiniz yazılımları ekleyin."
+  },
+  "Connection name": {
+    "es": "Nombre de conexión",
+    "de": "Verbindungsname",
+    "tr": "Bağlantı adı"
+  },
+  "Connection protocol": {
+    "es": "Protocolo de conexión",
+    "de": "Verbindungsprotokoll",
+    "tr": "Bağlantı protokolü"
+  },
+  "Remove connection": {
+    "es": "Eliminar conexión",
+    "de": "Verbindung entfernen",
+    "tr": "Bağlantıyı kaldır"
+  },
+  "Executable (absolute path recommended)": {
+    "es": "Ejecutable (ruta absoluta recomendada)",
+    "de": "Programm (absoluter Pfad empfohlen)",
+    "tr": "Program (tam yol önerilir)"
+  },
+  "Arguments (JSON array)": {
+    "es": "Argumentos (lista JSON)",
+    "de": "Argumente (JSON-Array)",
+    "tr": "Argümanlar (JSON dizisi)"
+  },
+  "Connect & list tools": {
+    "es": "Conectar y listar herramientas",
+    "de": "Verbinden & Werkzeuge auflisten",
+    "tr": "Bağlan ve araçları listele"
+  },
+  "Test agent connection": {
+    "es": "Probar conexión del agente",
+    "de": "Agent-Verbindung testen",
+    "tr": "Asistan bağlantısını test et"
+  },
+  "Tool name": {
+    "es": "Nombre de herramienta",
+    "de": "Werkzeugname",
+    "tr": "Araç adı"
+  },
+  "Tool arguments (JSON object)": {
+    "es": "Argumentos (objeto JSON)",
+    "de": "Werkzeugargumente (JSON-Objekt)",
+    "tr": "Araç argümanları (JSON nesnesi)"
+  },
+  "Run tool": {
+    "es": "Ejecutar herramienta",
+    "de": "Werkzeug ausführen",
+    "tr": "Aracı çalıştır"
+  },
+  "Message to agent": {
+    "es": "Mensaje al agente",
+    "de": "Nachricht an Agent",
+    "tr": "Asistana mesaj"
+  },
+  "Ask your agent for CV advice. Include only information you want to share.": {
+    "es": "Pide consejos sobre tu currículum. Incluye solo lo que quieras compartir.",
+    "de": "Frage nach Lebenslauf-Tipps. Teile nur gewünschte Informationen.",
+    "tr": "Asistanınızdan özgeçmiş önerisi isteyin. Yalnızca paylaşmak istediğiniz bilgileri ekleyin."
+  },
+  "Send to agent": {
+    "es": "Enviar al agente",
+    "de": "An Agent senden",
+    "tr": "Asistana gönder"
+  },
+  "Close": {
+    "es": "Cerrar",
+    "de": "Schließen",
+    "tr": "Kapat"
+  },
+  "Save settings": {
+    "es": "Guardar ajustes",
+    "de": "Einstellungen speichern",
+    "tr": "Ayarları kaydet"
+  },
+  "Assistant model": {
+    "es": "Modelo del asistente",
+    "de": "Assistentenmodell",
+    "tr": "Asistan modeli"
+  },
+  "(saved; refresh to verify)": {
+    "es": "(guardado; actualiza para verificar)",
+    "de": "(gespeichert; zum Prüfen aktualisieren)",
+    "tr": "(kayıtlı; doğrulamak için yenile)"
+  },
+  "Refresh models": {
+    "es": "Actualizar modelos",
+    "de": "Modelle aktualisieren",
+    "tr": "Modelleri yenile"
+  },
+  "Models are reported by your agent and may be cached. Availability depends on your account. Your choice is saved for this assistant and used for future messages. Agent default uses its external configuration.": {
+    "es": "El agente proporciona los modelos, que pueden estar en caché. El acceso depende de tu cuenta. La elección se guarda para futuros mensajes. El valor predeterminado usa la configuración externa.",
+    "de": "Der Agent meldet die Modelle; die Liste kann zwischengespeichert sein. Zugriff hängt vom Konto ab. Die Auswahl gilt für künftige Nachrichten. Der Standard nutzt die externe Konfiguration.",
+    "tr": "Modeller asistan tarafından bildirilir ve önbellekte olabilir. Erişim hesabınıza bağlıdır. Seçiminiz sonraki mesajlar için kaydedilir. Varsayılan, harici yapılandırmayı kullanır."
+  },
+  "This agent does not advertise selectable models. Configure its model in the provider’s own settings.": {
+    "es": "Este agente no ofrece modelos seleccionables. Configúralo en los ajustes del proveedor.",
+    "de": "Dieser Agent bietet keine Modellauswahl. Konfiguriere das Modell beim Anbieter.",
+    "tr": "Bu asistan seçilebilir model bildirmiyor. Modeli sağlayıcının ayarlarından yapılandırın."
+  },
+  "Your design. Your signature.": {
+    "es": "Tu diseño. Tu firma.",
+    "de": "Dein Design. Deine Handschrift.",
+    "tr": "Tasarımınız. İmzanız."
+  },
+  "Unsaved changes": {
+    "es": "Cambios sin guardar",
+    "de": "Ungespeicherte Änderungen",
+    "tr": "Kaydedilmemiş değişiklikler"
+  },
+  "Template saved on this device": {
+    "es": "Plantilla guardada en este dispositivo",
+    "de": "Vorlage auf diesem Gerät gespeichert",
+    "tr": "Şablon bu cihaza kaydedildi"
+  },
+  "FOLIO / DESIGN WORKSPACE": {
+    "es": "FOLIO / ESPACIO DE DISEÑO",
+    "de": "FOLIO / DESIGN-ARBEITSBEREICH",
+    "tr": "FOLIO / TASARIM ALANI"
+  },
+  "Template Editor Studio": {
+    "es": "Estudio de edición de plantillas",
+    "de": "Vorlageneditor-Studio",
+    "tr": "Şablon Düzenleme Stüdyosu"
+  },
+  "Undo": {
+    "es": "Deshacer",
+    "de": "Rückgängig",
+    "tr": "Geri al"
+  },
+  "Save template": {
+    "es": "Guardar plantilla",
+    "de": "Vorlage speichern",
+    "tr": "Şablonu kaydet"
+  },
+  "Apply to CV": {
+    "es": "Aplicar al currículum",
+    "de": "Auf Lebenslauf anwenden",
+    "tr": "Özgeçmişe uygula"
+  },
+  "Create CV": {
+    "es": "Crear currículum",
+    "de": "Lebenslauf erstellen",
+    "tr": "Özgeçmiş oluştur"
+  },
+  "Close template editor": {
+    "es": "Cerrar editor de plantillas",
+    "de": "Vorlageneditor schließen",
+    "tr": "Şablon düzenleyiciyi kapat"
+  },
+  "Design settings": {
+    "es": "Ajustes de diseño",
+    "de": "Design-Einstellungen",
+    "tr": "Tasarım ayarları"
+  },
+  "01 / Identity": {
+    "es": "01 / Identidad",
+    "de": "01 / Identität",
+    "tr": "01 / Kimlik"
+  },
+  "Template name": {
+    "es": "Nombre de plantilla",
+    "de": "Vorlagenname",
+    "tr": "Şablon adı"
+  },
+  "Base layout": {
+    "es": "Diseño base",
+    "de": "Grundlayout",
+    "tr": "Temel düzen"
+  },
+  "02 / Type & color": {
+    "es": "02 / Tipografía y color",
+    "de": "02 / Schrift & Farbe",
+    "tr": "02 / Yazı ve renk"
+  },
+  "Typeface": {
+    "es": "Tipografía",
+    "de": "Schriftart",
+    "tr": "Yazı tipi"
+  },
+  "Noto Sans — contemporary": {
+    "es": "Noto Sans — contemporánea",
+    "de": "Noto Sans — modern",
+    "tr": "Noto Sans — çağdaş"
+  },
+  "Noto Serif — editorial": {
+    "es": "Noto Serif — editorial",
+    "de": "Noto Serif — redaktionell",
+    "tr": "Noto Serif — editoryal"
+  },
+  "Accent": {
+    "es": "Acento",
+    "de": "Akzent",
+    "tr": "Vurgu"
+  },
+  "Body text": {
+    "es": "Texto principal",
+    "de": "Fließtext",
+    "tr": "Gövde metni"
+  },
+  "Name size": {
+    "es": "Tamaño del nombre",
+    "de": "Namensgröße",
+    "tr": "Ad boyutu"
+  },
+  "Body size": {
+    "es": "Tamaño del texto",
+    "de": "Textgröße",
+    "tr": "Metin boyutu"
+  },
+  "Line height": {
+    "es": "Interlineado",
+    "de": "Zeilenhöhe",
+    "tr": "Satır yüksekliği"
+  },
+  "03 / Page & spacing": {
+    "es": "03 / Página y espaciado",
+    "de": "03 / Seite & Abstände",
+    "tr": "03 / Sayfa ve aralık"
+  },
+  "Paper size": {
+    "es": "Tamaño de papel",
+    "de": "Papierformat",
+    "tr": "Kâğıt boyutu"
+  },
+  "Page margin": {
+    "es": "Margen de página",
+    "de": "Seitenrand",
+    "tr": "Sayfa kenar boşluğu"
+  },
+  "Section spacing": {
+    "es": "Espacio entre secciones",
+    "de": "Abschnittsabstand",
+    "tr": "Bölüm aralığı"
+  },
+  "Show portrait": {
+    "es": "Mostrar retrato",
+    "de": "Porträt anzeigen",
+    "tr": "Portreyi göster"
+  },
+  "Show contact details": {
+    "es": "Mostrar datos de contacto",
+    "de": "Kontaktdaten anzeigen",
+    "tr": "İletişim bilgilerini göster"
+  },
+  "Portrait shape": {
+    "es": "Forma del retrato",
+    "de": "Porträtform",
+    "tr": "Portre şekli"
+  },
+  "Match layout": {
+    "es": "Según el diseño",
+    "de": "Passend zum Layout",
+    "tr": "Düzene uydur"
+  },
+  "Square": {
+    "es": "Cuadrado",
+    "de": "Quadratisch",
+    "tr": "Kare"
+  },
+  "Circle": {
+    "es": "Círculo",
+    "de": "Kreis",
+    "tr": "Daire"
+  },
+  "04 / Sections": {
+    "es": "04 / Secciones",
+    "de": "04 / Abschnitte",
+    "tr": "04 / Bölümler"
+  },
+  "Rename, reorder, or hide. Your CV text stays untouched.": {
+    "es": "Renombra, reordena u oculta. El texto del currículum no cambia.",
+    "de": "Umbenennen, umsortieren oder ausblenden. Dein Text bleibt unverändert.",
+    "tr": "Yeniden adlandırın, sıralayın veya gizleyin. Özgeçmiş metni değişmez."
+  },
+  "Reset design settings": {
+    "es": "Restablecer diseño",
+    "de": "Design zurücksetzen",
+    "tr": "Tasarım ayarlarını sıfırla"
+  },
+  "05 / Saved designs": {
+    "es": "05 / Diseños guardados",
+    "de": "05 / Gespeicherte Designs",
+    "tr": "05 / Kayıtlı tasarımlar"
+  },
+  "Browse saved templates": {
+    "es": "Ver plantillas guardadas",
+    "de": "Gespeicherte Vorlagen ansehen",
+    "tr": "Kayıtlı şablonlara göz at"
+  },
+  "No saved designs yet.": {
+    "es": "Aún no hay diseños guardados.",
+    "de": "Noch keine Designs gespeichert.",
+    "tr": "Henüz kayıtlı tasarım yok."
+  },
+  "Saved template loaded": {
+    "es": "Plantilla cargada",
+    "de": "Vorlage geladen",
+    "tr": "Kayıtlı şablon yüklendi"
+  },
+  "Saved template removed. Existing CVs are unchanged.": {
+    "es": "Plantilla eliminada. Los currículums no cambian.",
+    "de": "Vorlage entfernt. Bestehende Lebensläufe bleiben unverändert.",
+    "tr": "Şablon kaldırıldı. Mevcut özgeçmişler değişmedi."
+  },
+  "Save your changes before loading another design.": {
+    "es": "Guarda antes de cargar otro diseño.",
+    "de": "Speichere vor dem Laden eines anderen Designs.",
+    "tr": "Başka tasarım yüklemeden önce değişiklikleri kaydedin."
+  },
+  "New template": {
+    "es": "Nueva plantilla",
+    "de": "Neue Vorlage",
+    "tr": "Yeni şablon"
+  },
+  "New design": {
+    "es": "Nuevo diseño",
+    "de": "Neues Design",
+    "tr": "Yeni tasarım"
+  },
+  "LIVE PREVIEW ·": {
+    "es": "VISTA PREVIA ·",
+    "de": "LIVE-VORSCHAU ·",
+    "tr": "CANLI ÖNİZLEME ·"
+  },
+  "Preview PDF": {
+    "es": "Vista previa del PDF",
+    "de": "PDF-Vorschau",
+    "tr": "PDF önizle"
+  },
+  "Content overview · Export PDF to check pagination.": {
+    "es": "Vista del contenido · Exporta para comprobar la paginación.",
+    "de": "Inhaltsübersicht · Prüfe die Seitenaufteilung im PDF.",
+    "tr": "İçerik önizlemesi · Sayfalamayı PDF'de kontrol edin."
+  },
+  "Reusable designs contain no personal CV information.": {
+    "es": "Los diseños reutilizables no contienen datos personales.",
+    "de": "Wiederverwendbare Designs enthalten keine persönlichen Angaben.",
+    "tr": "Yeniden kullanılabilir tasarımlar kişisel bilgi içermez."
+  },
+  "Save your template?": {
+    "es": "¿Guardar tu plantilla?",
+    "de": "Vorlage speichern?",
+    "tr": "Şablonunuz kaydedilsin mi?"
+  },
+  "You have unsaved design changes.": {
+    "es": "Tienes cambios de diseño sin guardar.",
+    "de": "Du hast ungespeicherte Designänderungen.",
+    "tr": "Kaydedilmemiş tasarım değişiklikleriniz var."
+  },
+  "Keep editing": {
+    "es": "Seguir editando",
+    "de": "Weiter bearbeiten",
+    "tr": "Düzenlemeye devam et"
+  },
+  "Discard changes": {
+    "es": "Descartar cambios",
+    "de": "Änderungen verwerfen",
+    "tr": "Değişiklikleri iptal et"
+  },
+  "Save and close": {
+    "es": "Guardar y cerrar",
+    "de": "Speichern und schließen",
+    "tr": "Kaydet ve kapat"
+  },
+  "Choose your assistant. No executable paths or JSON required.": {
+    "es": "Elige tu asistente. Sin rutas de ejecutables ni JSON.",
+    "de": "Wähle deinen Assistenten. Keine Programmpfade oder JSON nötig.",
+    "tr": "Asistanınızı seçin. Program yolu veya JSON gerekmez."
+  },
+  "Connecting to your MCP service. Complete browser authorization if it opens…": {
+    "es": "Conectando al servicio MCP. Completa la autorización del navegador…",
+    "de": "Verbindung zum MCP-Dienst. Schließe ggf. die Browser-Anmeldung ab…",
+    "tr": "MCP hizmetine bağlanılıyor. Açılırsa tarayıcı yetkilendirmesini tamamlayın…"
+  },
+  "Discovering available sign-in methods…": {
+    "es": "Buscando métodos de acceso…",
+    "de": "Anmeldemethoden werden ermittelt…",
+    "tr": "Oturum açma yöntemleri bulunuyor…"
+  },
+  "Choose a sign-in method below, or verify an existing login.": {
+    "es": "Elige un método de acceso o verifica tu sesión actual.",
+    "de": "Wähle eine Anmeldemethode oder prüfe eine bestehende Anmeldung.",
+    "tr": "Bir oturum açma yöntemi seçin veya mevcut oturumu doğrulayın."
+  },
+  "Enter your service’s HTTPS MCP endpoint below, then choose Connect service.": {
+    "es": "Introduce el endpoint HTTPS de MCP y elige Conectar servicio.",
+    "de": "Gib den HTTPS-MCP-Endpunkt ein und wähle Dienst verbinden.",
+    "tr": "Hizmetin HTTPS MCP adresini girin, ardından Hizmete bağlan'ı seçin."
+  },
+  "Complete sign-in in the provider’s login window. Close that window to cancel.": {
+    "es": "Completa el acceso en la ventana del proveedor. Ciérrala para cancelar.",
+    "de": "Melde dich im Anbieterfenster an. Schließe es zum Abbrechen.",
+    "tr": "Sağlayıcının penceresinde oturum açın. İptal için pencereyi kapatın."
+  },
+  "Complete sign-in in your browser if prompted. Waiting for the provider…": {
+    "es": "Completa el acceso en el navegador. Esperando al proveedor…",
+    "de": "Melde dich bei Aufforderung im Browser an. Warten auf den Anbieter…",
+    "tr": "İstenirse tarayıcıda oturum açın. Sağlayıcı bekleniyor…"
+  },
+  "Checking whether this agent can open a session…": {
+    "es": "Comprobando si el agente puede abrir una sesión…",
+    "de": "Prüfe, ob der Agent eine Sitzung öffnen kann…",
+    "tr": "Asistanın oturum açabildiği kontrol ediliyor…"
+  },
+  "Ready · agent session verified": {
+    "es": "Listo · sesión del agente verificada",
+    "de": "Bereit · Agent-Sitzung bestätigt",
+    "tr": "Hazır · asistan oturumu doğrulandı"
+  },
+  "The agent did not confirm readiness. Try connecting again.": {
+    "es": "El agente no confirmó estar listo. Vuelve a conectar.",
+    "de": "Der Agent hat seine Bereitschaft nicht bestätigt. Verbinde erneut.",
+    "tr": "Asistan hazır olduğunu doğrulamadı. Yeniden bağlanın."
+  },
+  "YOUR ASSISTANTS, ONE WORKSPACE": {
+    "es": "TUS ASISTENTES, UN SOLO ESPACIO",
+    "de": "DEINE ASSISTENTEN, EIN ARBEITSBEREICH",
+    "tr": "ASİSTANLARINIZ, TEK ÇALIŞMA ALANI"
+  },
+  "Connect an AI assistant": {
+    "es": "Conectar un asistente de IA",
+    "de": "KI-Assistent verbinden",
+    "tr": "Yapay zekâ asistanı bağla"
+  },
+  "Provider-managed login": {
+    "es": "Acceso gestionado por el proveedor",
+    "de": "Anmeldung über den Anbieter",
+    "tr": "Sağlayıcı yönetimli oturum açma"
+  },
+  "Choose an assistant, install its adapter once, then sign in. Some providers open a browser directly; others open an interactive login window. Account access and billing remain with the provider.": {
+    "es": "Elige un asistente, instala su adaptador e inicia sesión. Puede abrir un navegador o una ventana de acceso. La cuenta y la facturación siguen con el proveedor.",
+    "de": "Wähle einen Assistenten, installiere den Adapter und melde dich an. Anbieter öffnen einen Browser oder ein Anmeldefenster. Konto und Abrechnung bleiben beim Anbieter.",
+    "tr": "Asistan seçin, adaptörünü kurun ve oturum açın. Sağlayıcı tarayıcı veya giriş penceresi açabilir. Hesap ve faturalandırma sağlayıcıda kalır."
+  },
+  "Open the Folio desktop app to install providers and sign in. Browser preview does not launch local agents.": {
+    "es": "Abre Folio de escritorio para instalar proveedores e iniciar sesión. La vista web no ejecuta agentes locales.",
+    "de": "Öffne die Desktop-App zum Installieren und Anmelden. Die Browser-Vorschau startet keine lokalen Agenten.",
+    "tr": "Sağlayıcıları kurup oturum açmak için Folio masaüstünü açın. Tarayıcı önizlemesi yerel asistan çalıştırmaz."
+  },
+  "Install Node.js 22 or newer with npm, then restart Folio. Provider setup will handle the rest.": {
+    "es": "Instala Node.js 22 o superior con npm y reinicia Folio. La configuración hará el resto.",
+    "de": "Installiere Node.js 22 oder neuer mit npm und starte Folio neu. Die Einrichtung erledigt den Rest.",
+    "tr": "npm ile Node.js 22 veya üstünü kurup Folio'yu yeniden başlatın. Kurulum gerisini halleder."
+  },
+  "Connect": {
+    "es": "Conectar",
+    "de": "Verbinden",
+    "tr": "Bağlan"
+  },
+  "Set up & connect": {
+    "es": "Configurar y conectar",
+    "de": "Einrichten & verbinden",
+    "tr": "Kur ve bağlan"
+  },
+  "Cancel connection": {
+    "es": "Cancelar conexión",
+    "de": "Verbindung abbrechen",
+    "tr": "Bağlantıyı iptal et"
+  },
+  "Connect your MCP service": {
+    "es": "Conecta tu servicio MCP",
+    "de": "MCP-Dienst verbinden",
+    "tr": "MCP hizmetinizi bağlayın"
+  },
+  "MCP server URL": {
+    "es": "URL del servidor MCP",
+    "de": "MCP-Server-URL",
+    "tr": "MCP sunucu URL'si"
+  },
+  "Use the endpoint published by your service, not its website login page. Compatible OAuth services open their own authorization screen. Private servers may need additional setup.": {
+    "es": "Usa el endpoint del servicio, no su página de acceso. Los servicios OAuth compatibles abren su autorización. Los servidores privados pueden necesitar configuración adicional.",
+    "de": "Nutze den veröffentlichten Endpunkt, nicht die Login-Webseite. Kompatible OAuth-Dienste öffnen ihre Anmeldung. Private Server können weitere Einrichtung benötigen.",
+    "tr": "Giriş sayfasını değil, hizmetin yayınladığı adresi kullanın. Uyumlu OAuth hizmetleri yetkilendirme ekranını açar. Özel sunucular ek ayar gerektirebilir."
+  },
+  "Connect service": {
+    "es": "Conectar servicio",
+    "de": "Dienst verbinden",
+    "tr": "Hizmete bağlan"
+  },
+  "Sign in to": {
+    "es": "Iniciar sesión en",
+    "de": "Anmelden bei",
+    "tr": "Oturum aç:"
+  },
+  "Opens an interactive login window": {
+    "es": "Abre una ventana de acceso",
+    "de": "Öffnet ein interaktives Anmeldefenster",
+    "tr": "Etkileşimli oturum açma penceresi açar"
+  },
+  "Provider-managed sign-in": {
+    "es": "Acceso del proveedor",
+    "de": "Anmeldung beim Anbieter",
+    "tr": "Sağlayıcı yönetimli giriş"
+  },
+  "This agent did not advertise a login method. Verify an existing login or use its own account setup.": {
+    "es": "El agente no ofrece un método de acceso. Verifica una sesión o configúralo con el proveedor.",
+    "de": "Dieser Agent meldet keine Anmeldemethode. Prüfe eine bestehende Anmeldung oder nutze seine Einrichtung.",
+    "tr": "Asistan bir oturum açma yöntemi bildirmedi. Mevcut oturumu doğrulayın veya kendi hesap ayarlarını kullanın."
+  },
+  "Verify existing login": {
+    "es": "Verificar sesión existente",
+    "de": "Bestehende Anmeldung prüfen",
+    "tr": "Mevcut oturumu doğrula"
+  },
+  "Signed out through the provider. This may also sign out its CLI on this device.": {
+    "es": "Sesión cerrada con el proveedor. También puede cerrar su CLI en este dispositivo.",
+    "de": "Beim Anbieter abgemeldet. Dadurch kann auch dessen CLI abgemeldet werden.",
+    "tr": "Sağlayıcıdan çıkış yapıldı. Bu cihazdaki CLI oturumu da kapanabilir."
+  },
+  "Sign out of provider": {
+    "es": "Cerrar sesión del proveedor",
+    "de": "Beim Anbieter abmelden",
+    "tr": "Sağlayıcıdan çıkış yap"
+  },
+  "Ask your assistant": {
+    "es": "Pregunta a tu asistente",
+    "de": "Frag deinen Assistenten",
+    "tr": "Asistanınıza sorun"
+  },
+  "Available tools": {
+    "es": "Herramientas disponibles",
+    "de": "Verfügbare Werkzeuge",
+    "tr": "Kullanılabilir araçlar"
+  },
+  "Message to assistant": {
+    "es": "Mensaje al asistente",
+    "de": "Nachricht an Assistent",
+    "tr": "Asistana mesaj"
+  },
+  "Ask for CV advice. Only include information you want to share.": {
+    "es": "Pide consejos sobre tu currículum. Comparte solo lo que desees.",
+    "de": "Bitte um Lebenslauf-Tipps. Teile nur gewünschte Informationen.",
+    "tr": "Özgeçmiş önerisi isteyin. Yalnızca paylaşmak istediğiniz bilgileri ekleyin."
+  },
+  "Waiting for the assistant…": {
+    "es": "Esperando al asistente…",
+    "de": "Warten auf den Assistenten…",
+    "tr": "Asistan bekleniyor…"
+  },
+  "Response received": {
+    "es": "Respuesta recibida",
+    "de": "Antwort erhalten",
+    "tr": "Yanıt alındı"
+  },
+  "Send message": {
+    "es": "Enviar mensaje",
+    "de": "Nachricht senden",
+    "tr": "Mesaj gönder"
+  },
+  "Available MCP tool": {
+    "es": "Herramienta MCP disponible",
+    "de": "Verfügbares MCP-Werkzeug",
+    "tr": "Kullanılabilir MCP aracı"
+  },
+  "Choose a tool": {
+    "es": "Elegir herramienta",
+    "de": "Werkzeug auswählen",
+    "tr": "Araç seç"
+  },
+  "Tool finished": {
+    "es": "Herramienta finalizada",
+    "de": "Werkzeug abgeschlossen",
+    "tr": "Araç tamamlandı"
+  },
+  "Run selected tool": {
+    "es": "Ejecutar herramienta seleccionada",
+    "de": "Gewähltes Werkzeug ausführen",
+    "tr": "Seçili aracı çalıştır"
+  },
+  "CVs are not sent automatically. Removing a connection does not revoke the provider’s credentials. Provider login does not configure portrait generation or voice transcription.": {
+    "es": "Los currículums no se envían automáticamente. Eliminar una conexión no revoca credenciales. El acceso no configura retratos ni transcripción.",
+    "de": "Lebensläufe werden nicht automatisch gesendet. Entfernen einer Verbindung widerruft keine Zugangsdaten. Die Anmeldung richtet keine Bilderzeugung oder Transkription ein.",
+    "tr": "Özgeçmişler otomatik gönderilmez. Bağlantıyı kaldırmak kimlik bilgilerini iptal etmez. Giriş, portre üretimini veya ses dökümünü yapılandırmaz."
+  },
+  "Install": {
+    "es": "Instalar",
+    "de": "Installieren",
+    "tr": "Kur"
+  },
+  "adapter?": {
+    "es": "¿adaptador?",
+    "de": "Adapter?",
+    "tr": "adaptörü?"
+  },
+  "This downloads and runs": {
+    "es": "Esto descarga y ejecuta",
+    "de": "Dies lädt und startet",
+    "tr": "Bu işlem şunu indirip çalıştırır:"
+  },
+  "from npm, including its dependencies and installation scripts. It runs with your OS account’s permissions and is not sandboxed by Folio. Only continue if you trust this software.": {
+    "es": "desde npm, con dependencias y scripts. Se ejecuta con los permisos de tu cuenta, sin aislamiento de Folio. Continúa solo si confías en el software.",
+    "de": "von npm, einschließlich Abhängigkeiten und Installationsskripten. Es läuft mit deinen Kontorechten, ohne Folio-Sandbox. Fahre nur bei vertrauenswürdiger Software fort.",
+    "tr": "npm üzerinden, bağımlılıklar ve kurulum betikleriyle birlikte. İşletim sistemi hesabınızın izinleriyle çalışır ve Folio tarafından yalıtılmaz. Yalnızca bu yazılıma güveniyorsanız devam edin."
+  },
+  "Node.js 22+ and an internet connection are required. Tokens are managed by the provider or MCP bridge, not stored in CVs. The MCP bridge keeps its own local credential cache.": {
+    "es": "Requiere Node.js 22+ e internet. El proveedor o puente MCP gestiona los tokens, no el currículum. El puente tiene su propia caché local de credenciales.",
+    "de": "Node.js 22+ und Internet sind nötig. Tokens werden vom Anbieter oder der MCP-Brücke verwaltet, nicht im Lebenslauf. Die Brücke speichert Zugangsdaten separat lokal.",
+    "tr": "Node.js 22+ ve internet gerekir. Token'lar sağlayıcı veya MCP köprüsünde yönetilir, özgeçmişlerde saklanmaz. MCP köprüsü kendi yerel kimlik önbelleğini tutar."
+  },
+  "Not now": {
+    "es": "Ahora no",
+    "de": "Nicht jetzt",
+    "tr": "Şimdi değil"
+  },
+  "Install & connect": {
+    "es": "Instalar y conectar",
+    "de": "Installieren & verbinden",
+    "tr": "Kur ve bağlan"
+  },
+  "OpenAI · ChatGPT or the agent's supported credentials": {
+    "es": "OpenAI · ChatGPT o credenciales compatibles",
+    "de": "OpenAI · ChatGPT oder unterstützte Zugangsdaten",
+    "tr": "OpenAI · ChatGPT veya desteklenen kimlik bilgileri"
+  },
+  "Anthropic · provider-managed login in a terminal/browser": {
+    "es": "Anthropic · acceso por terminal o navegador",
+    "de": "Anthropic · Anmeldung im Terminal/Browser",
+    "tr": "Anthropic · terminal/tarayıcı ile sağlayıcı girişi"
+  },
+  "Google · choose the login method offered by Gemini CLI": {
+    "es": "Google · elige el acceso de Gemini CLI",
+    "de": "Google · Anmeldemethode von Gemini CLI wählen",
+    "tr": "Google · Gemini CLI giriş yöntemini seçin"
+  },
+  "GitHub · authentication and access managed by Copilot CLI": {
+    "es": "GitHub · acceso gestionado por Copilot CLI",
+    "de": "GitHub · Anmeldung über Copilot CLI",
+    "tr": "GitHub · Copilot CLI yönetimli erişim"
+  },
+  "Multiple providers · available methods depend on OpenCode": {
+    "es": "Varios proveedores · métodos según OpenCode",
+    "de": "Mehrere Anbieter · Methoden abhängig von OpenCode",
+    "tr": "Birden çok sağlayıcı · yöntemler OpenCode'a bağlı"
+  },
+  "Connect a service URL · browser OAuth when the server supports it": {
+    "es": "Conecta una URL · OAuth si el servidor lo permite",
+    "de": "Dienst-URL verbinden · Browser-OAuth bei Unterstützung",
+    "tr": "Hizmet URL'si bağlayın · destekleniyorsa tarayıcı OAuth"
+  },
+  "A little personality. All professional.": {
+    "es": "Un toque personal. Siempre profesional.",
+    "de": "Etwas Persönlichkeit. Ganz professionell.",
+    "tr": "Biraz kişilik. Tamamen profesyonel."
+  },
+  "Confident color. A clear hierarchy.": {
+    "es": "Color con confianza. Jerarquía clara.",
+    "de": "Klare Farben. Klare Struktur.",
+    "tr": "Güçlü renkler. Net düzen."
+  },
+  "Timeless, clean, and understated.": {
+    "es": "Atemporal, limpio y discreto.",
+    "de": "Zeitlos, klar und dezent.",
+    "tr": "Zamansız, sade ve zarif."
+  },
+  "A bold edge for your next leadership move.": {
+    "es": "Un toque audaz para tu próximo liderazgo.",
+    "de": "Markant für deinen nächsten Karriereschritt.",
+    "tr": "Sonraki liderlik adımınız için güçlü bir tarz."
+  },
+  "Expressive type. A soft splash of color.": {
+    "es": "Tipografía expresiva. Color suave.",
+    "de": "Ausdrucksstarke Schrift. Sanfte Farben.",
+    "tr": "Etkileyici yazı. Yumuşak renkler."
+  },
+  "Quiet confidence, with room to breathe.": {
+    "es": "Confianza serena, con espacio para respirar.",
+    "de": "Ruhige Stärke mit Raum zum Atmen.",
+    "tr": "Sakin güven, ferah alanlar."
+  },
+  "Connect the moments that shaped your career.": {
+    "es": "Conecta los momentos de tu carrera.",
+    "de": "Verbinde die Meilensteine deiner Karriere.",
+    "tr": "Kariyerinizi şekillendiren anları birleştirin."
+  },
+  "A signature introduction, unmistakably you.": {
+    "es": "Una presentación única, inconfundiblemente tuya.",
+    "de": "Eine unverwechselbare Vorstellung, ganz du.",
+    "tr": "Size özgü, benzersiz bir tanıtım."
+  },
+  "Refined": {
+    "es": "Refinado",
+    "de": "Elegant",
+    "tr": "Zarif"
+  },
+  "Contemporary": {
+    "es": "Contemporáneo",
+    "de": "Modern",
+    "tr": "Çağdaş"
+  },
+  "Traditional": {
+    "es": "Tradicional",
+    "de": "Klassisch",
+    "tr": "Geleneksel"
+  },
+  "Leadership": {
+    "es": "Liderazgo",
+    "de": "Führung",
+    "tr": "Liderlik"
+  },
+  "Creative": {
+    "es": "Creativo",
+    "de": "Kreativ",
+    "tr": "Yaratıcı"
+  },
+  "Minimal": {
+    "es": "Minimalista",
+    "de": "Minimalistisch",
+    "tr": "Minimal"
+  },
+  "Career story": {
+    "es": "Historia profesional",
+    "de": "Karriereweg",
+    "tr": "Kariyer hikâyesi"
+  },
+  "Personal brand": {
+    "es": "Marca personal",
+    "de": "Persönliche Marke",
+    "tr": "Kişisel marka"
+  },
+  "Save or close the Template Editor before exiting.": {
+    "es": "Guarda o cierra el editor antes de salir.",
+    "de": "Speichere oder schließe den Vorlageneditor vor dem Beenden.",
+    "tr": "Çıkmadan önce şablon düzenleyiciyi kaydedin veya kapatın."
+  },
+  "Choose a CV backup smaller than 12 MB.": {
+    "es": "Elige una copia menor de 12 MB.",
+    "de": "Wähle eine Sicherung kleiner als 12 MB.",
+    "tr": "12 MB'den küçük bir yedek seçin."
+  },
+  "Recording is too long. Please keep each answer under two minutes.": {
+    "es": "La grabación es demasiado larga. Limita cada respuesta a dos minutos.",
+    "de": "Die Aufnahme ist zu lang. Bitte unter zwei Minuten pro Antwort bleiben.",
+    "tr": "Kayıt çok uzun. Her yanıtı iki dakikanın altında tutun."
+  },
+  "Choose a JPEG, PNG, or WebP image smaller than 10 MB.": {
+    "es": "Elige una imagen JPEG, PNG o WebP menor de 10 MB.",
+    "de": "Wähle ein JPEG-, PNG- oder WebP-Bild kleiner als 10 MB.",
+    "tr": "10 MB'den küçük JPEG, PNG veya WebP görsel seçin."
+  },
+  "Enter an HTTPS MCP server URL without tokens, credentials, query parameters, or fragments.": {
+    "es": "Introduce una URL HTTPS de MCP sin tokens, credenciales, parámetros ni fragmentos.",
+    "de": "Gib eine HTTPS-MCP-URL ohne Tokens, Zugangsdaten, Parameter oder Fragmente ein.",
+    "tr": "Token, kimlik bilgisi, sorgu veya parça içermeyen HTTPS MCP URL'si girin."
+  },
+  "Tool arguments must be a JSON object.": {
+    "es": "Los argumentos deben ser un objeto JSON.",
+    "de": "Werkzeugargumente müssen ein JSON-Objekt sein.",
+    "tr": "Araç argümanları bir JSON nesnesi olmalıdır."
+  },
+  "Command arguments must be a JSON array of strings.": {
+    "es": "Los argumentos deben ser una lista JSON de cadenas.",
+    "de": "Befehlsargumente müssen ein JSON-Array aus Zeichenketten sein.",
+    "tr": "Komut argümanları metinlerden oluşan JSON dizisi olmalıdır."
+  },
+  "Assistant": {
+    "es": "Asistente",
+    "de": "Assistent",
+    "tr": "Asistan"
+  },
+  "Replies and text suggestions use {name}. Allow sharing below to send messages. Voice transcription still needs a speech API.": {
+    "es": "Las respuestas y sugerencias usan {name}. Permite compartir abajo. La transcripción requiere una API de voz.",
+    "de": "Antworten und Textvorschläge verwenden {name}. Erlaube unten das Teilen. Transkription benötigt weiterhin eine Sprach-API.",
+    "tr": "Yanıtlar ve metin önerileri {name} kullanır. Göndermek için paylaşım izni verin. Ses dökümü için konuşma API'si gerekir."
+  },
+  "Edit {name}": {
+    "es": "Editar {name}",
+    "de": "{name} bearbeiten",
+    "tr": "{name} düzenle"
+  },
+  "Actions for {name}": {
+    "es": "Acciones de {name}",
+    "de": "Aktionen für {name}",
+    "tr": "{name} işlemleri"
+  },
+  "Use accent {color}": {
+    "es": "Usar acento {color}",
+    "de": "Akzent {color} verwenden",
+    "tr": "{color} vurgusunu kullan"
+  },
+  "Remove position {number}": {
+    "es": "Eliminar puesto {number}",
+    "de": "Position {number} entfernen",
+    "tr": "{number}. pozisyonu kaldır"
+  },
+  "Remove education {number}": {
+    "es": "Eliminar formación {number}",
+    "de": "Ausbildung {number} entfernen",
+    "tr": "{number}. eğitimi kaldır"
+  },
+  "Show {section}": {
+    "es": "Mostrar {section}",
+    "de": "{section} anzeigen",
+    "tr": "{section} göster"
+  },
+  "{section} heading": {
+    "es": "Título de {section}",
+    "de": "Überschrift für {section}",
+    "tr": "{section} başlığı"
+  },
+  "Move {section} up": {
+    "es": "Subir {section}",
+    "de": "{section} nach oben",
+    "tr": "{section} yukarı taşı"
+  },
+  "Move {section} down": {
+    "es": "Bajar {section}",
+    "de": "{section} nach unten",
+    "tr": "{section} aşağı taşı"
+  },
+  "Duplicate {name}": {
+    "es": "Duplicar {name}",
+    "de": "{name} duplizieren",
+    "tr": "{name} çoğalt"
+  },
+  "Delete {name}": {
+    "es": "Eliminar {name}",
+    "de": "{name} löschen",
+    "tr": "{name} sil"
+  },
+  "Installing {name} locally. This may take a few minutes…": {
+    "es": "Instalando {name}. Puede tardar unos minutos…",
+    "de": "{name} wird lokal installiert. Dies kann einige Minuten dauern…",
+    "tr": "{name} yerel olarak kuruluyor. Birkaç dakika sürebilir…"
+  },
+  "Connected · {count} tools available": {
+    "es": "Conectado · {count} herramientas disponibles",
+    "de": "Verbunden · {count} Werkzeuge verfügbar",
+    "tr": "Bağlandı · {count} araç kullanılabilir"
+  },
+  "Untitled CV": {
+    "es": "Currículum sin título",
+    "de": "Unbenannter Lebenslauf",
+    "tr": "Adsız özgeçmiş"
+  },
+  "My custom template": {
+    "es": "Mi plantilla personalizada",
+    "de": "Meine eigene Vorlage",
+    "tr": "Özel şablonum"
+  },
+  "(copy)": {
+    "es": "(copia)",
+    "de": "(Kopie)",
+    "tr": "(kopya)"
+  },
+  "preview": {
+    "es": "vista previa",
+    "de": "Vorschau",
+    "tr": "önizleme"
+  },
+  "A4 · 210 × 297 mm": {
+    "es": "A4 · 210 × 297 mm",
+    "de": "A4 · 210 × 297 mm",
+    "tr": "A4 · 210 × 297 mm"
+  },
+  "US Letter · 8.5 × 11 in": {
+    "es": "Carta EE. UU. · 8,5 × 11 pulg.",
+    "de": "US Letter · 8,5 × 11 Zoll",
+    "tr": "US Letter · 8,5 × 11 inç"
+  }
+}

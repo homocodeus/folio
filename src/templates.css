@@ -1,0 +1,69 @@
+.template-collection-badge{display:inline-flex;align-items:center;gap:8px;white-space:nowrap;padding:10px 14px;background:#eef2e8;border:1px solid #dfe7d6;border-radius:24px;color:#6b805c;font-size:11px}
+.template-category{display:block;font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:#8b9681;margin-bottom:9px}
+.template-preview{height:350px;padding:25px 22px 0}
+.template-preview .resume.miniature{min-height:390px}
+.template-card:nth-child(4n) .template-preview{background:#e9edf2}
+.template-card:nth-child(5n) .template-preview{background:#f1eaf0}
+.template-card:nth-child(7n) .template-preview{background:#f3ebe5}
+.resume.executive{border-left:8px solid var(--accent)}
+.resume.executive .resume-header{border-bottom:3px solid var(--accent);padding-bottom:23px}
+.resume.executive .resume-header h1{font-family:'Noto Sans',sans-serif;font-weight:700;font-size:28px;color:#263342;letter-spacing:-1px}
+.resume.executive .resume-header p{text-transform:uppercase;letter-spacing:1.2px;font-size:8px;color:var(--accent)}
+.resume.executive h2{border-bottom:1px solid #e0e4e8;padding-bottom:7px}
+.resume.executive .resume-skills>span{border:0;border-radius:0;background:var(--accent-soft);color:var(--accent)}
+.resume.studio .resume-header{padding:23px;background:var(--accent-soft);border:0;border-radius:18px 18px 18px 0;position:relative}
+.resume.studio .resume-header h1{font-family:'Noto Sans',sans-serif;font-size:31px;font-weight:700;line-height:1.13;letter-spacing:-1.5px}
+.resume-kicker{display:block;font-size:6px;letter-spacing:2px;color:var(--accent);margin-bottom:14px}
+.resume.studio .resume-header p{color:var(--accent);font-size:9px}
+.resume.studio .resume-header img{border-radius:12px}
+.resume.studio h2{background:var(--accent-soft);padding:6px 10px;border-radius:4px;letter-spacing:1.3px}
+.resume.studio .resume-skills>span{background:var(--accent-soft);border:0;border-radius:20px;color:var(--accent);padding:5px 9px}
+.resume.nordic .resume-header{flex-direction:column;text-align:center;padding:12px 0 24px;border:0}
+.resume.nordic .resume-header>div{width:100%}
+.resume.nordic .resume-header h1{font-family:'Noto Sans',sans-serif;font-size:23px;font-weight:400;text-transform:uppercase;letter-spacing:3px;line-height:1.5}
+.resume.nordic .resume-header p{font-size:8px;letter-spacing:1.8px;text-transform:uppercase}
+.resume.nordic .resume-header img{order:-1;width:64px;height:64px;border-radius:50%;margin-bottom:6px}
+.resume.nordic .resume-contact{text-align:center;border-top:1px solid #e6e9e4;border-bottom:1px solid #e6e9e4;padding:10px 0;margin:0 0 24px}
+.resume.nordic h2{letter-spacing:2.8px;font-size:7px;margin-top:25px}
+.resume.nordic .resume-skills>span{border:0;background:none;padding:3px 7px 3px 0}
+.resume.timeline .resume-header{border-top:4px solid var(--accent);border-bottom:0;padding-top:21px}
+.resume.timeline .resume-header h1{font-family:'Noto Sans',sans-serif;font-size:28px;font-weight:700;letter-spacing:-1px}
+.resume.timeline .resume-content{border-left:1px solid var(--accent);padding-left:17px;margin-left:4px}
+.resume.timeline h2{position:relative;padding-top:3px}
+.resume.timeline h2:before{content:'';position:absolute;width:7px;height:7px;background:var(--accent);border:3px solid white;border-radius:50%;left:-24px;top:3px}
+.resume.timeline .resume-meta{color:var(--accent)}
+.resume.timeline .resume-skills>span{border-color:var(--accent-soft);background:var(--accent-soft);color:var(--accent)}
+.resume.monogram .resume-header{border-bottom:0;gap:19px;padding-bottom:15px}
+.resume-monogram{width:68px;height:68px;border-radius:50%;background:var(--accent);color:#fff;flex-shrink:0;display:grid;place-items:center;font-size:22px;font-weight:600;letter-spacing:1px}
+.resume.monogram .resume-header h1{font-family:Georgia,serif;font-size:28px;font-weight:400;line-height:1.3}
+.resume.monogram .resume-header img{order:-1;width:68px;height:68px;border-radius:50%}
+.resume.monogram .resume-contact{border-bottom:1px solid var(--accent);padding-bottom:14px}
+.resume.monogram h2{border-left:3px solid var(--accent);padding-left:9px;letter-spacing:1.5px}
+.resume.monogram .resume-skills>span{border:0;background:var(--accent-soft);color:var(--accent);border-radius:12px}
+.resume.executive.miniature{border-left-width:5px}
+.resume.executive.miniature .resume-header{padding-bottom:12px;border-bottom-width:2px}
+.resume.executive.miniature .resume-header h1,.resume.timeline.miniature .resume-header h1{font-size:17px;letter-spacing:-.5px}
+.resume.executive.miniature .resume-header p{font-size:4px;letter-spacing:.6px}
+.resume.executive.miniature h2{padding-bottom:4px}
+.resume.studio.miniature .resume-header{padding:13px;border-radius:10px 10px 10px 0}
+.resume.studio.miniature .resume-header h1{font-size:20px;letter-spacing:-.8px}
+.resume.studio.miniature .resume-header p{font-size:5px}
+.miniature .resume-kicker{font-size:3px;letter-spacing:1px;margin-bottom:8px}
+.resume.studio.miniature h2{padding:4px 6px;letter-spacing:.8px}
+.resume.studio.miniature .resume-skills>span{padding:3px 5px}
+.resume.nordic.miniature .resume-header{padding:7px 0 13px;gap:5px}
+.resume.nordic.miniature .resume-header h1{font-size:14px;letter-spacing:1.7px}
+.resume.nordic.miniature .resume-header p{font-size:4px;letter-spacing:1px}
+.resume.nordic.miniature .resume-header img{width:35px;height:35px;margin-bottom:3px}
+.resume.nordic.miniature .resume-contact{padding:6px 0;margin-bottom:13px}
+.resume.nordic.miniature h2{font-size:4px;letter-spacing:1.5px;margin-top:14px}
+.resume.timeline.miniature .resume-header{border-top-width:3px;padding-top:12px}
+.resume.timeline.miniature .resume-content{padding-left:10px;margin-left:2px}
+.resume.timeline.miniature h2:before{width:4px;height:4px;border-width:2px;left:-15px;top:3px}
+.resume.monogram.miniature .resume-header{gap:10px;padding-bottom:8px}
+.miniature .resume-monogram{width:37px;height:37px;font-size:12px;letter-spacing:.5px}
+.resume.monogram.miniature .resume-header h1{font-size:17px}
+.resume.monogram.miniature .resume-header img{width:37px;height:37px}
+.resume.monogram.miniature .resume-contact{padding-bottom:8px}
+.resume.monogram.miniature h2{border-left-width:2px;padding-left:5px;letter-spacing:.8px}
+@media(max-width:600px){.template-preview{height:360px}.resume.monogram .resume-header{gap:12px}.resume.monogram .resume-header h1{font-size:23px}.resume-monogram,.resume.monogram .resume-header img{width:52px;height:52px}.resume.studio .resume-header{padding:16px}.resume.studio .resume-header h1{font-size:25px}.resume.nordic .resume-header h1{font-size:21px;letter-spacing:2px}}

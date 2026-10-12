@@ -1,0 +1,17 @@
+.theme-picker{display:flex;align-items:center;gap:8px;margin:0;font-size:11px}.theme-picker select{width:auto;margin:0;padding:7px}.resume-language-control{padding:14px 24px 0}.resume-language-control label{margin-bottom:6px}.resume-language-control .hint{margin-bottom:12px}
+.topbar{height:auto;min-height:76px;flex-wrap:wrap;gap:12px;padding-top:12px;padding-bottom:12px}.topbar-right{flex-wrap:wrap;gap:12px}.theme-picker{flex-shrink:0}
+:root[data-theme=dark]{color-scheme:dark;color:#e0e9e3;background:#131b18}
+[data-theme=dark] :is(.sidebar,.topbar,.editor-toolbar,.editor-panel,.editor-tabs,.settings-modal,.studio-top,.studio-controls,.studio-status,.template-workbench,.card-menu,.modal,.confirm-modal,.cv-card-info){background:#1c2822;border-color:#3b4c40;color:#e0e9e3}
+[data-theme=dark] :is(.hero,.sidebar-callout,.subtle-card,.privacy-note,.notice,.provider-progress,.provider-consent,.chat-answer,.assistant-avatar,.proposal,.completion,.nav-count,.new-badge,.pill){background:#273a2e;border-color:#455b49;color:#d9e9de}
+[data-theme=dark] :is(.secondary,.provider-tile,.connection-card,.template-card,.cv-card,.new-cv-card,.design-option,.answer-box,.search-box,.entry-form,.ai-portrait,.photo-stage,.art-label,.camera-close,.studio-saved>button:first-child){background:#202e26;border-color:#405346;color:#e0e9e3}
+[data-theme=dark] :is(input,textarea,select,.studio-controls input:not([type=checkbox]),.studio-controls select){background:#15221b;border-color:#4a6050;color:#edf5ee}
+[data-theme=dark] :is(.nav-item.selected,.nav-item:hover,.provider-tile.chosen,.provider-tile:hover:not(:disabled),.secondary:hover:not(:disabled),.design-option.selected){background:#344e3b;color:#f1f7f1;border-color:#8fba99}
+[data-theme=dark] :is(.preview-panel,.studio-canvas){background:#111b16}
+[data-theme=dark] :is(p,.hint,.muted,.eyebrow,.nav-item,.breadcrumbs,.breadcrumbs strong,.private-label,.local-note,.workspace-label,.workspace-profile span,.provider-tile small,.provider-consent p,.provider-local,.studio-controls p,.studio-controls h2,.studio-controls output,.studio-status,.studio-canvas>p,.settings-advanced>summary,.hero p,.hero-footnote,.library-footer,.chat-question,.save-status):not(.resume,.resume *){color:#b4c5b8}
+[data-theme=dark] :is(.text-button,.editor-tabs button.active){color:#a9d9b6}
+[data-theme=dark] .primary{background:#91c9a5;color:#102319}
+[data-theme=dark] .primary:hover:not(:disabled){background:#b3dfc1}
+[data-theme=dark] .danger{color:#ffaaa1}
+[data-theme=dark] .resume{color-scheme:light;background:#fff;color:#283d33}
+[data-theme=dark] .resume.customized{color:var(--design-color)}
+@media(max-width:600px){.theme-picker{font-size:0;gap:0}.theme-picker select{font-size:11px}.resume-language-control{padding:12px 14px 0}}

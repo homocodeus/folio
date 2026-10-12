@@ -1,0 +1,56 @@
+import { test, expect } from '@playwright/test';
+import { readFile } from 'node:fs/promises';
+
+test('save, reuse and export a custom template without changing CV content', async ({ page }) => {
+  const errors: string[] = [];
+  page.on('pageerror', error => errors.push(error.message));
+  await page.goto('/');
+  await page.getByRole('button', { name: 'Open example CV' }).click();
+  await page.getByRole('button', { name: 'Design', exact: true }).click();
+  await page.getByRole('button', { name: 'Open Template Editor' }).click();
+  await page.getByLabel('Template name', { exact: true }).fill('Signature serif');
+  await page.getByLabel('Typeface', { exact: true }).selectOption('serif');
+  await page.getByLabel('Paper size', { exact: true }).selectOption('LETTER');
+  await page.getByLabel('profile heading', { exact: true }).fill('About me');
+  await page.getByLabel('Show languages', { exact: true }).uncheck();
+  await page.getByRole('button', { name: 'Move skills up', exact: true }).click();
+  await expect(page.locator('.studio-paper [data-section="languages"]')).toBeHidden();
+  await expect(page.locator('.studio-paper h2').first()).toHaveText('About me');
+  await page.screenshot({ path: 'test-results/template-editor-studio.png' });
+  await page.getByRole('button', { name: 'Save template', exact: true }).click();
+  await expect(page.locator('.studio-status')).toContainText('Template saved');
+  await page.getByRole('button', { name: 'Apply to CV', exact: true }).click();
+  await expect(page.getByRole('dialog')).toHaveCount(0);
+  await page.getByRole('button', { name: 'Details', exact: true }).click();
+  await expect(page.getByLabel('Full name', { exact: true })).toHaveValue('Alex Morgan');
+  const download = page.waitForEvent('download');
+  await page.getByRole('button', { name: 'Export PDF', exact: true }).click();
+  const exported = await download;
+  expect(exported.suggestedFilename()).toMatch(/\.pdf$/);
+  const bytes = await readFile((await exported.path())!);
+  expect(bytes.subarray(0, 5).toString()).toBe('%PDF-');
+  expect(bytes.toString('latin1')).toContain('/MediaBox [0 0 612 792]');
+  await page.reload();
+  await page.getByRole('button', { name: 'Edit Product designer', exact: true }).click();
+  await page.getByRole('button', { name: 'Design', exact: true }).click();
+  await page.getByRole('button', { name: 'Open Template Editor' }).click();
+  await page.getByRole('button', { name: 'Browse saved templates' }).click();
+  await page.getByRole('button', { name: 'Signature serif', exact: true }).click();
+  await expect(page.getByLabel('Typeface', { exact: true })).toHaveValue('serif');
+  await page.getByRole('button', { name: 'Delete Signature serif', exact: true }).click();
+  await expect(page.getByRole('button', { name: 'Signature serif', exact: true })).toHaveCount(0);
+  await page.getByRole('button', { name: 'Close template editor' }).click();
+  await expect(page.locator('.preview-paper [data-section="languages"]')).toBeHidden();
+  expect(errors).toEqual([]);
+});
+
+test('unsaved studio changes require a close decision', async ({ page }) => {
+  await page.goto('/');
+  await page.getByRole('button', { name: 'Template studio', exact: true }).click();
+  await page.getByRole('button', { name: 'Open Template Editor' }).click();
+  await page.getByLabel('Template name', { exact: true }).fill('Unsaved');
+  await page.getByRole('button', { name: 'Close template editor' }).click();
+  await expect(page.getByRole('alertdialog')).toBeVisible();
+  await page.getByRole('button', { name: 'Discard changes' }).click();
+  await expect(page.getByRole('heading', { name: 'A format for your future.' })).toBeVisible();
+});

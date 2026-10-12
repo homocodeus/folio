@@ -1,0 +1,8 @@
+[
+  { "id": "codex", "name": "Codex", "description": "OpenAI · ChatGPT or the agent's supported credentials", "package": "@agentclientprotocol/codex-acp", "version": "2.1.1", "bin": "codex-acp", "args": [], "protocol": "acp", "docs": "https://github.com/agentclientprotocol/codex-acp" },
+  { "id": "claude", "name": "Claude", "description": "Anthropic · provider-managed login in a terminal/browser", "package": "@agentclientprotocol/claude-agent-acp", "version": "0.87.0", "bin": "claude-agent-acp", "args": [], "protocol": "acp", "docs": "https://github.com/agentclientprotocol/claude-agent-acp" },
+  { "id": "gemini", "name": "Gemini", "description": "Google · choose the login method offered by Gemini CLI", "package": "@google/gemini-cli", "version": "0.63.0", "bin": "gemini", "args": ["--acp"], "protocol": "acp", "docs": "https://geminicli.com/docs/get-started/authentication/" },
+  { "id": "copilot", "name": "GitHub Copilot", "description": "GitHub · authentication and access managed by Copilot CLI", "package": "@github/copilot", "version": "1.0.93", "bin": "copilot", "args": ["--acp"], "protocol": "acp", "docs": "https://github.com/github/copilot-cli" },
+  { "id": "opencode", "name": "OpenCode", "description": "Multiple providers · available methods depend on OpenCode", "package": "opencode-ai", "version": "1.18.35", "bin": "opencode", "args": ["acp"], "protocol": "acp", "docs": "https://opencode.ai/docs/acp/" },
+  { "id": "mcp-remote", "name": "Remote MCP", "description": "Connect a service URL · browser OAuth when the server supports it", "package": "mcp-remote", "version": "0.1.38", "bin": "mcp-remote", "args": [], "protocol": "mcp", "docs": "https://github.com/geelen/mcp-remote" }
+]
